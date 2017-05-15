@@ -8,14 +8,12 @@ header_image: "/images/blog-healthcare-chatbots-robot-doctor.png"
 
 
 In this article we’ll share a few things we’ve learned from building chatbots.
-We’ll cover how to select the right messaging platforms, how to design effective
-conversations and why we’ve built our own platform for the rapid development and
-testing of bots. 
+We’ll cover how to select the right messaging platforms, the importance of conversation design and why we’ve built our own platform for rapid development of bots. 
 
 
 ## What does success look like?
 
-Like any project, it’s important to start by defining goals that can be used to
+Before starting any project, it’s important to define goals and ways to
 measure success.
 
 One of the unique things about bot products is that you can often **fake it
@@ -30,8 +28,7 @@ before spending anything on development.
 ## Discovery
 
 We use an [Agile development process that’s simple and
-flexible](/about-us/how-we-work/), allowing us to be creative
-in achieving your goals. In order to hit the ground running there are a few
+flexible](/about-us/how-we-work/). In order to hit the ground running there are a few
 things we need to figure out first.
 
 #### Choosing the right messaging platform
@@ -57,15 +54,15 @@ rebuilding a website in order to know which browsers and devices you need to
 support, you should aim to collect data from your audience on which messaging
 apps they use.
 
-SMS is a good catch-all option. Our platform supports SMS as standard so you can
-always fall back on it if necessary. While it cannot offer some of the more
-graphical UI elements that other messaging apps do, we automatically translate
-these into a text-only equivalent.
+Facebook Messenger is by far the most popular option, with over 1 billion monthly
+active users and strong support from Facebook to grow the platform.  We'd recommend 
+looking at Messenger first unless you have particular anonymity requirements or you
+need to support basic devices that only use SMS.  
+
 
 ![SMS and Facebook Messenger Bot development](/images/blog-chatbot-project-sms-fb.png)
 
-> Automatically making use of the appropriate features on multiple messaging
-platforms
+> Interactions can be delivered differently for SMS and Facebook Messenger bots
 
 #### Capturing Requirements
 
@@ -169,13 +166,13 @@ performance and make informed decisions to continually improve the product.
 
 Good question! And we’ll give you a simple answer…
 
-It can cost as little as £10–15k for a simple MVP — that’s a 1 week discovery
+It can cost as little as £15k for a simple MVP — that’s a 1 week discovery
 phase and a single sprint to get a working product out there. We can deliver
-this so cheaply and reliably because of the technology we’ve already built and
+this cheaply and reliably because of the technology we’ve already built and
 the valuable experience we have to share with you.
 
-Of course the full answer is that it depends on how complex the bot is that you
-want to create. If you want to integrate with other products, or use
+Of course the full answer is that it depends on how complex the product is that you
+want to create. If you want to integrate with other technology, or use
 sophisticated NLP / AI techniques then it can take many sprints to train
 learning algorithms to be effective and meet product goals.
 
