@@ -44,3 +44,9 @@ pluralizelisttitles = false
 		bio				= "Andrew joined us mid 2014 on an internship programme. He's a recent graduate in Astrophysics from the University of London. During his time with Atchai, Andrew has developed a good working knowledge of how to build web applications using HTML, CSS, Javascript and Python. In his spare time he's a keen photographer and pianist."
     email   = "andrew@atchai.com"
     
+	[params.authors.TomHewitson]
+    name  = "Tom Hewitson - Conversation Designer"
+		thumbnail		= "/img/authors/tom_hewitson.jpg"
+		bio				= "Tom is a conversation designer & founder of labworks.io. Previously at Facebook and UK Government Digital Services.  Follow his work at www.tomhewitson.com"
+    email   = "tom.hewitson@atchai.com"
+    
