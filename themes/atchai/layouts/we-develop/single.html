@@ -2,8 +2,16 @@
 
 <section class="landing-top-section">
     <div class="landing-top-block">
-        <h1>{{ .Params.h1 }}</h1>
+      
 
+        {{ if isset .Params "header_image"  }}
+            <img src="{{ .Params.header_image }}" class="blog-image">
+        {{ end }}
+        
+        {{ if isset .Params "h1"  }}
+          <h1>{{ .Params.h1 }}</h1>
+        {{ end }}
+        
         <div class="landing-top-content">
             {{ .Content }}
         </div>

@@ -1,19 +1,17 @@
 ---
 title: "Hippocamp Chatbot Platform / Engine for Facebook Messenger"
-H1: "Hippocamp Chatbot Platform"
-partial_includes: ["case-studies-chatbots.html", "testimonial-mindbot.html"]
+header_image: "/img/hippocamp-logo.png"
+partial_includes: ["case-studies-hippocamp.html", "testimonial-mindbot.html"]
 sitemap:
     priority: 0.8
 ---
 
-
+<br>
 
 ## Fully Customisable
-Hippocamp is our proprietry engine that we've developed to power all our chatbot projects.  It is now available for you to use too!  We provide full service chatbot conversation design, copywriting and custom development.  We can work with you to develop a concept for your chatbot, design and test the product in an iterative process with real users, and either provide a managed service or set up hosting on your infrastructure.
+Hippocamp is our proprietry engine that powers all our chatbot projects.  It is now available for you to use too!  We provide a full chatbot co-creation service. We work with you to develop a concept, design and test the product in an iterative process with real users, and either provide a managed service or set up hosting on your own infrastructure.
 
-## Push Notifications
-You can push content to your users in real-time.  Facebook Messenger is a one to one channel so you're not competing to get your content seen in the Facebook news feed.
-
+<br>
 
 ##  Advanced NLP capabilities
 Hippocamp can integrate with any NLP system and Atchai has expertise in building custom NLP algorithms to meet non-standard requirements.
@@ -36,7 +34,7 @@ Hippocamp can integrate with any NLP system and Atchai has expertise in building
 </div>
 
 ## Multi-platform
-Hippocamp allows you to design your chatbot experience once and deploy it across all major platforms.  We support <strong>Facebook Messenger</strong>, <strong>Slack</strong> and voice interfaces such as <strong>Amazon Alexa</strong>. 
+Hippocamp allows you to design your chatbot experience once and deploy it across all major platforms.  We support all features of <strong>Facebook Messenger</strong>.
 
 
 
@@ -70,22 +68,37 @@ Hippocamp allows you to design your chatbot experience once and deploy it across
 
 <br>
 
+## Push Notifications
+You can push updates to your subscribers in real-time. Facebook Messenger is a one to one channel so you're not competing to get your content seen in the Facebook news feed.
+
+<img src="/images/hippocamp-push.jpg" alt="real time updates facebook messenger" style="width:50%">
+
+<br>
+
+## Drive Engagement
+Set up quizzes, competitions and polls to solicit user generated content from your users.  Capture a wide range of media including photos, videos and audio.
+
+<img src="/images/hippocamp-ugc.jpg" alt="ugc bot facebook messenger" style="width:50%">
+
+<br>
+
 ## Analytics
 We'll set up real-time analytics with the market leading bot analytics products.  You'll be able to see every interaction with your bot along with aggregate statistics on usage and KPIs. 
 
 
 <img src="/images/lastseen-engagement.png" style="width:100%">
 
+<br>
 
-## Integrate with your CMS
+## No Management Overhead
 You don't want to manage any more systems so we can seamlessly integrate with your existing CMS or CRM.  This allows you to update content in the bot easily with no additional overhead.
 
-
-## Tried and Tested
-Check out some of the projects that are powered by Hippocamp below.  From UK Government to Global FMCG brands, our bots have passed the most stringent security tests and we can ensure you pass through GDPR.  Our bots are blazingly fast as Hippocamp is build with Node.js and deployed on cloud infrastructure using Docker container management.
-
-
 <br>
+## Tried and Tested
+From UK Government to Global FMCG brands, our bots have passed the most stringent security tests and we can ensure you pass through GDPR.  Our bots are blazingly fast as Hippocamp is build with Node.js and deployed on cloud infrastructure using Docker container management.
+
+
+<br><br>
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
