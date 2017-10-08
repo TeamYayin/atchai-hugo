@@ -1,12 +1,16 @@
 {{ partial "small-header.html" . }}
 
+       
+        
 <section class="landing-top-section">
+  
     <div class="landing-top-block">
-      
+      {{ if isset .Params "header_image"  }}
+        <br>
+          <img src="{{ .Params.header_image }}" style="width:100%">
+      {{ end }}
 
-        {{ if isset .Params "header_image"  }}
-            <img src="{{ .Params.header_image }}" class="blog-image">
-        {{ end }}
+        
         
         {{ if isset .Params "h1"  }}
           <h1>{{ .Params.h1 }}</h1>

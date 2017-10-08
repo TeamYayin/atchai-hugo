@@ -1,6 +1,6 @@
 ---
 title: "Hippocamp Chatbot Platform / Engine for Facebook Messenger"
-header_image: "/img/hippocamp-logo.png"
+header_image: "/images/hippocamp-header.png"
 partial_includes: ["case-studies-hippocamp.html", "testimonial-mindbot.html"]
 sitemap:
     priority: 0.8
