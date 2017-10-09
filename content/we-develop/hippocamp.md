@@ -95,7 +95,7 @@ You don't want to manage any more systems so we can seamlessly integrate with yo
 
 <br>
 ## Tried and Tested
-From UK Government to Global FMCG brands, our bots have passed the most stringent security tests and we can ensure you pass through GDPR.  Our bots are blazingly fast as Hippocamp is build with Node.js and deployed on cloud infrastructure using Docker container management.
+Used by everyone from UK Government to global brands, our bots have passed the most stringent security tests and we can ensure you pass through GDPR.  Our bots are blazingly fast as Hippocamp is build with Node.js and deployed on cloud infrastructure using Docker container management.
 
 
 <br><br>
