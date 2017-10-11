@@ -11,7 +11,7 @@ Modern apps need to do more than just look beautiful. Great user experience has 
 
 
 ## Cutting Edge Technology 
-Our tech stack is constantly evolving - We embrace new technology and we’re always learning.  For big data pipelines and machine learning / NLP at scale we use <strong>Apache Spark with Python</strong> and Scala, typically deployed on AWS.  We build <strong>micro-services</strong> that communicate via task queues such as RabbitMQ.  Modern datastores provide a wide range of options, we work a lot with <strong>Elasticsearch</strong>, <strong>Postgres</strong> and <strong>MongoDB</strong>.  Our web applications are moving towards a full-stack <strong>javascript</strong> approach, as <strong>Node.js</strong> reaches maturity.  
+Our tech stack is constantly evolving - We embrace new technology and we’re always learning.  For big data pipelines and machine learning / NLP at scale we use <strong>Apache Spark with Python</strong> and Scala, typically deployed on AWS.  We build <strong>micro-services</strong> that communicate via task queues such as RabbitMQ.  Modern datastores provide a wide range of options, we work a lot with <strong>Elasticsearch</strong>, <strong>Postgres</strong> and <strong>MongoDB</strong>.  Our web applications are moving towards a full-stack <strong>javascript/Node.js</strong> approach.  
 
 <div class="row row-mod skills-images">
     <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
