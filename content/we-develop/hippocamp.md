@@ -48,19 +48,16 @@ Hippocamp allows you to design your chatbot experience once and deploy it across
         <div class="col-md-2 circle">
             <a href="https://en-gb.messenger.com/">
                 <img src="/img/facebook-messenger.svg" alt="facebook messenger">
-                <h5>Facebook <br>Messenger</h5>
             </a>
         </div>
         <div class="col-md-2 circle">
             <a href="https://www.twilio.com/">
                 <img src="/img/twilio.svg" alt="twilio">
-                <h5>Twilio<br>SMS</h5>
             </a>
         </div>
         <div class="col-md-2 circle">
             <a href="https://telegram.org/">
                 <img src="/img/telegram.svg" alt="telegram">
-                <h5>Telegram</h5>
             </a>
         </div>
     </div>
