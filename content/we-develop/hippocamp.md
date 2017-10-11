@@ -18,7 +18,7 @@ Hippocamp can integrate with any NLP system and Atchai has expertise in building
 
 
 
-<div class="container-fluid img-form">
+<div class="container-fluid img-form" style="margin-top:15px">
 
     <div class="row">
         <div class="col-md-2 circle" >
@@ -36,30 +36,11 @@ Hippocamp can integrate with any NLP system and Atchai has expertise in building
 ## Multi-platform
 Hippocamp allows you to design your chatbot experience once and deploy it across all major platforms.  We support all features of <strong>Facebook Messenger</strong>.
 
-
-
-
 <div class="container-fluid img-form">
     <div class="row">
         <div class="col-md-3"><a href="https://slack.com/"><img src="/img/slack.svg" alt="slack integration"></a></div>
+        <div class="col-md-2 circle"><a href="https://en-gb.messenger.com/"><img src="/img/facebook-messenger.svg" alt="facebook messenger" style="margin-top:-10px"></a></div>
         <div class="col-md-4"><a href="https://en.wikipedia.org/wiki/Amazon_Echo"><img src="/img/amazon-echo.svg" alt="amazon echo"></a></div>
-    </div>
-    <div class="row">
-        <div class="col-md-2 circle">
-            <a href="https://en-gb.messenger.com/">
-                <img src="/img/facebook-messenger.svg" alt="facebook messenger">
-            </a>
-        </div>
-        <div class="col-md-2 circle">
-            <a href="https://www.twilio.com/">
-                <img src="/img/twilio.svg" alt="twilio">
-            </a>
-        </div>
-        <div class="col-md-2 circle">
-            <a href="https://telegram.org/">
-                <img src="/img/telegram.svg" alt="telegram">
-            </a>
-        </div>
     </div>
 </div>
 

@@ -7,37 +7,36 @@ sitemap:
 ---
 
 ## Rise of the Bots
-Messaging apps have become ubiquitous and claim higher engagement with more monthly active users than the big four social networks.  Frequently hyped as an answer to app fatigue, chatbots do not require your users to install a new app, and are often cheaper to build than traditional mobile applications.  
+Messaging apps have become ubiquitous.  The top four messaging apps can claim higher engagement with more monthly active users than the big four social networks.  Voice interfaces continue the pervasive computing trend, rapidly becoming mainstream and blending into our environemnts.  75% of US households will own a voice activated assistant by 2020 (Gartner).
 
 ## Chatbot development
-We have experience developing bots for all the major messaging platforms including <strong>Facebook Messenger</strong>, <strong>Slack</strong>, <strong>SMS</strong>, and voice interfaces such as <strong>Amazon Alexa</strong>.  We can help you understand whether a conversational or menu-driven approach is right for your use case, how to design conversations, and how to apply AI and natural language processing technology.
+We have developed bots for all the major  platforms including <strong>Facebook Messenger</strong>, <strong>Slack</strong>, and voice interfaces such as <strong>Amazon Alexa</strong>.  We provide a full chatbot co-creation service. We work with you to develop a concept, design and test the product in an iterative process with real users.  Our machine learning and NLP experience helps us inject magic!
 
 <div class="container-fluid img-form">
     <div class="row">
         <div class="col-md-3"><a href="https://slack.com/"><img src="/img/slack.svg" alt="slack integration"></a></div>
+        <div class="col-md-2 circle"><a href="https://en-gb.messenger.com/"><img src="/img/facebook-messenger.svg" alt="facebook messenger" style="margin-top:-10px"></a></div>
         <div class="col-md-4"><a href="https://en.wikipedia.org/wiki/Amazon_Echo"><img src="/img/amazon-echo.svg" alt="amazon echo"></a></div>
     </div>
-    <div class="row">
-        <div class="col-md-2 circle">
-            <a href="https://en-gb.messenger.com/">
-                <img src="/img/facebook-messenger.svg" alt="facebook messenger">
-                <h5>Facebook <br>Messenger</h5>
-            </a>
-        </div>
-        <div class="col-md-2 circle">
-            <a href="https://www.twilio.com/">
-                <img src="/img/twilio.svg" alt="twilio">
-                <h5>Twilio<br>SMS</h5>
-            </a>
-        </div>
-        <div class="col-md-2 circle">
-            <a href="https://telegram.org/">
-                <img src="/img/telegram.svg" alt="telegram">
-                <h5>Telegram<br>Bots</h5>
-            </a>
-        </div>
-    </div>
 </div>
+<br>
+<br>
+<br>
+<br>
+
+
+<a href="/we-develop/hippocamp"><img src="/img/hippocamp-logo.png" ></a>
+
+<a href="/we-develop/hippocamp">Hippocamp</a> is the brain behind our bots.  We built it to offer our customers full ownership of their data and complete flexibility in customising their bot's functionality.</p>
+
+Used by everyone from the UK Government to multi-nationals.
+
+<img src="/img/danone-logo-colour.svg" alt="Danone logo" style="width:80px">
+<img src="/img/department-for-international-trade-logo.png" alt="Department for international trade logo" style="width:120px; margin-left:20px">
+<img src="/img/sabc-logo.svg" alt="SABC logo" style="width:100px; margin-left:20px">
+
+<br>
+<br>
 <br>
 
 ### About Atchai
