@@ -9,9 +9,6 @@ sitemap:
 ## Rise of the Bots
 Messaging apps have become ubiquitous.  The top four messaging apps can claim higher engagement with more monthly active users than the big four social networks.  Voice interfaces continue the pervasive computing trend, rapidly becoming mainstream and blending into our environemnts.  75% of US households will own a voice activated assistant by 2020 (Gartner).
 
-## Chatbot development
-We have developed bots for all the major  platforms including <strong>Facebook Messenger</strong>, <strong>Slack</strong>, and voice interfaces such as <strong>Amazon Alexa</strong>.  We provide a full chatbot co-creation service. We work with you to develop a concept, design and test the product in an iterative process with real users.  Our machine learning and NLP experience helps us inject magic!
-
 <div class="container-fluid img-form">
     <div class="row">
         <div class="col-md-3"><a href="https://slack.com/"><img src="/img/slack.svg" alt="slack integration"></a></div>
@@ -19,13 +16,18 @@ We have developed bots for all the major  platforms including <strong>Facebook M
         <div class="col-md-4"><a href="https://en.wikipedia.org/wiki/Amazon_Echo"><img src="/img/amazon-echo.svg" alt="amazon echo"></a></div>
     </div>
 </div>
+
 <br>
+## Chatbot development
+We have developed bots for all the major  platforms including <strong>Facebook Messenger</strong>, <strong>Slack</strong>, and voice interfaces such as <strong>Amazon Alexa</strong>.  We provide a full chatbot co-creation service. We work with you to develop a concept, design and test the product in an iterative process with real users.  Our machine learning and NLP experience helps us inject magic!
+
+
 <br>
 <br>
 <br>
 
 
-<a href="/we-develop/hippocamp"><img src="/img/hippocamp-logo.png" ></a>
+<a href="/we-develop/hippocamp"><img src="/img/hippocamp-logo.svg" style="max-width:70%"></a>
 
 <a href="/we-develop/hippocamp">Hippocamp</a> is the brain behind our bots.  We built it to offer our customers full ownership of their data and complete flexibility in customising their bot's functionality.</p>
 
