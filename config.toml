@@ -50,3 +50,9 @@ pluralizelisttitles = false
 		bio				= "Tom is a conversation designer & founder of labworks.io. Previously at Facebook and UK Government Digital Services.  Follow his work at www.tomhewitson.com"
     email   = "tom.hewitson@atchai.com"
     
+	[params.authors.IsabelleBrown]
+    name  = "Isabelle Amazon Brown"
+		thumbnail		= "/img/authors/isabelle.png"
+		bio				= "Isabelle is a 'Digital for Good' expert with 7 years experience designing, producing and evaluating mobile websites, apps, and content for social impact."
+    email   = "isabelle@atchai.com"
+    
