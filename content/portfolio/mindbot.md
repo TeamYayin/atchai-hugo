@@ -18,5 +18,5 @@ The technology that has been developed and deployed for Mindbot is being made av
 
 
 <p style="text-align: center;">
-    <a href="https://www.messenger.com/t/1723939907886378">Mindbot on Facebook Messenger</a>
+    <a href="https://www.messenger.com/t/1768606856517354">Mindbot on Facebook Messenger</a>
 </p>
