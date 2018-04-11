@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-gb"
-title = "Chatbots & Product Development Consultancy in London"
+title = "Smart Product Development Consultancy in London"
 theme = "atchai"
 relativeurls = true
 canonifyurls = false
@@ -9,27 +9,27 @@ pluralizelisttitles = false
 
 [params]
   prod_baseurl = "http://atchai.com"
-  metadescription = "Atchai develops sophisticated digital products using cutting edge technology with an agile, user-centred approach."
-  
-  
+  metadescription = "Atchai develops sophisticated digital products using cutting edge technology with an agile, user-centred approach. Specialising in bots, blockchain, and data driven web applications."
+
+
 [params.authors]
 	[params.authors.JohnGriffin]
     name  = "John Griffin - Founder and Principal Consultant"
 		thumbnail		= "/img/authors/vacant2.jpg"
-		bio				= "John has a background as a creative technologist and entrepreneur. Armed with a Masters in Computer Systems Engineering and the experience gained from founding multiple companies, he has spent the last 12 years creating innovative digital products for clients including Amnesty International, BBC, NHS, Bank of England, Turner Broadcasting, and WWF.  "
+		bio				= "Armed with a Masters in Computer Systems Engineering and the experience gained from founding multiple companies, John has spent the last 14 years creating innovative digital products for start-ups, NGOs, large public sector and multinational organisations.  He is continually expanding his knowledge through dedicated R&D projects, areas of interest curretly include blockchain, machine learning and NLP. "
     email   = "john@atchai.com"
     linkedin = "https://www.linkedin.com/in/j0hngriffin"
     twitter = "https://twitter.com/johngriffin"
     medium = "https://medium.com/@john.griffin"
     github = "https://github.com/johngriffin"
-    
+
 	[params.authors.PhilipOlivier]
     name  = "Philip Olivier - Operations Manager"
 		thumbnail		= "/img/authors/philip_olivier_profile.png"
 		bio				= "Philip makes light work out of keeping projects on track, and clients happy. He excels at bridging the gap between user and technology. From the Discovery Phase, through research, delivery, and testing, Philip will be keeping the client well informed, and the delivery team motivated. He’s a Certified ScrumMaster (CSM) but also brings with him a wide range of experience from working in the charity, legal, and film industries. He also cooks a mean barbecue."
     email   = "philip.olivier@atchai.com"
     twitter = "https://twitter.com/thephilolivier"
-    
+
 	[params.authors.RobHardwick]
     name  = "Rob Hardwick - Lead Developer"
 		thumbnail		= "/img/authors/rob_action.jpg"
@@ -37,22 +37,21 @@ pluralizelisttitles = false
     email   = "rob.hardwick@atchai.com"
     twitter = "https://twitter.com/robhardwick86"
     github = "https://github.com/robhardwick"
-    
+
 	[params.authors.AndrewLow]
     name  = "Andrew Low - Junior Developer"
 		thumbnail		= "/img/authors/andrew.png"
 		bio				= "Andrew joined us mid 2014 on an internship programme. He's a recent graduate in Astrophysics from the University of London. During his time with Atchai, Andrew has developed a good working knowledge of how to build web applications using HTML, CSS, Javascript and Python. In his spare time he's a keen photographer and pianist."
     email   = "andrew@atchai.com"
-    
+
 	[params.authors.TomHewitson]
     name  = "Tom Hewitson - Conversation Designer"
 		thumbnail		= "/img/authors/tom_hewitson.jpg"
 		bio				= "Tom is a conversation designer & founder of labworks.io. Previously at Facebook and UK Government Digital Services.  Follow his work at www.tomhewitson.com"
     email   = "tom.hewitson@atchai.com"
-    
+
 	[params.authors.IsabelleBrown]
     name  = "Isabelle Amazon Brown"
 		thumbnail		= "/img/authors/isabelle.png"
 		bio				= "Isabelle is a 'Digital for Good' expert with 7 years experience designing, producing and evaluating mobile websites, apps, and content for social impact."
     email   = "isabelle@atchai.com"
-    
