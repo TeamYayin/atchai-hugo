@@ -3,7 +3,7 @@ author: JohnGriffin
 date: "2018-04-11"
 published: true
 title: "Software licences as non-fungible tokens"
-header_image: "/images/blog-header-generic.png"
+header_image: "/images/blog-licensetoken-header.png"
 ---
 
 
