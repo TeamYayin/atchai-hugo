@@ -6,9 +6,9 @@ author: IsabelleBrown
 header_image: "/images/blog-header-generic.png"
 ---
 
-The Eyewitness platform is an open source Facebook Messenger bot and management interface designed to let news organisations create their own bot that distributes stories and collects User Generated Content (UGC).
+The Eyewitness platform is an open source messaging bot and management interface designed to let news organisations distribute stories and collects User Generated Content (UGC).
 
-*The project is co-funded by [Code for Africa](https://codeforafrica.org) and [Facebook](http://facebook.com).*
+*The project is funded by [Code for Africa](https://codeforafrica.org) and [Bill and Melinda Gates Foundation](https://www.gatesfoundation.org/).*
 
 ![Facebook Messenger bots launched for The Star and Battabox](/images/blog-eyewitness2-bots.jpg)
 
@@ -42,7 +42,7 @@ One of the challenges we anticipated was the addition of a new interface to the 
 
 ### What’s next
 
-We went live with our second release too close to Christmas to gather detailed feedback from our partners, however we decided to proceed with planning for release 3 based on what we had learned already, and on the data we could now more easily visualise thanks to the new dashboard. 
+We went live with our second release too close to Christmas to gather detailed feedback from our partners, however we decided to proceed with planning for release 3 based on what we had learned already, and on the data we could now more easily visualise thanks to the new dashboard.
 
 A quick analysis of the UGC sent in to our partners highlighted some recurring themes, such as:
 
@@ -65,7 +65,6 @@ Additional small features include:
 *  Provide a simple button to assign stories to breaking news via the dashboard (it seems like doing this on their RSS feeds was a challenge for our partners)
 * Improve the conversation UI with features like timestamps and better sorting
 * Performance enhancements to deal with the large number of messages in the UI
-* Integrating basic free analytics to the dashboard 
+* Integrating basic free analytics to the dashboard
 
 **Finally, we’re on the lookout for additional partners to try the bot for free, which will increase our understanding of how Eyewitness could support the work of news organisations across Africa. If you’re interested, get in touch with [isabelle@atchai.com](mailto:isabelle@atchai.com) for a demo and a chat!**
-

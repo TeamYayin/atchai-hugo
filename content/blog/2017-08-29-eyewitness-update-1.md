@@ -6,11 +6,9 @@ author: TomHewitson
 header_image: "/images/blog-header-generic.png"
 ---
 
-The Eyewitness platform is an open source Facebook Messenger bot and management
-interface designed to let news organisations create their own bot that
-distributes stories and collects User Generated Content (UGC).
+The Eyewitness platform is an open source messaging bot and management interface designed to let news organisations distribute stories and collects User Generated Content (UGC).
 
-The project is co-funded by [Code for Africa](https://codeforafrica.org) and [Facebook](http://facebook.com).
+*The project is funded by [Code for Africa](https://codeforafrica.org) and [Bill and Melinda Gates Foundation](https://www.gatesfoundation.org/).*
 
 ![](/images/blog-eyewitness1-whiteboard.png)
 
@@ -114,5 +112,3 @@ In the meantime I’m going to be looking at:
 
 #### > whether UGC should be submitted via a form or within the conversation flow
 (there are benefits to both)
-
-

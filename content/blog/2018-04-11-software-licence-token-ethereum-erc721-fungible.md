@@ -33,7 +33,7 @@ software.
 
 ## Potential benefits of this approach
 
-### **Transferability**
+### Transferability
 
 This is obviously a benefit to the consumer, offering more flexibility. It is
 also safer than the current methods of transferring a serial number or a
@@ -46,7 +46,7 @@ For example you could set a time period where tokens are locked and
 non-transferrable, or you could set up a revenue share where you get a
 percentage of the secondary sale.
 
-### **Anti-Piracy**
+### Anti-Piracy
 
 A particularly interesting property of making licenses transferrable and owned
 by an Ethereum account is that you need to possess the private key in order to
@@ -56,6 +56,8 @@ being transferred away from you.
 This is only really a deterrent for wide-scale sharing of the private key, and
 probably wouldn’t stop you sharing the key with someone sitting next to you. It
 would however deter you from posting it on a public forum.
+
+There will always be technical workarounds for anti-piracy measures and ultimately it comes down to incentives, if you can incentivise legal purchase enough (e.g by requiring less commitment from the customer) then it should make the workarounds required to pirate the product less attractive.
 
 ### Privacy
 
