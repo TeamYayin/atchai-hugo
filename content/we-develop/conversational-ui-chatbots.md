@@ -7,7 +7,7 @@ sitemap:
 ---
 
 ## Rise of the Bots
-Messaging apps have become ubiquitous.  The top four messaging apps can claim higher engagement with more monthly active users than the big four social networks.  Voice interfaces continue the pervasive computing trend, rapidly becoming mainstream and blending into our environemnts.  75% of US households will own a voice activated assistant by 2020 (Gartner).
+Messaging apps have become ubiquitous.  The top four messaging apps can claim higher engagement with more monthly active users than the big four social networks.  Voice interfaces continue the pervasive computing trend, rapidly becoming mainstream and blending into our environments.  75% of US households will own a voice activated assistant by 2020 (Gartner).
 
 <div class="container-fluid img-form">
     <div class="row">
@@ -52,4 +52,3 @@ Established in 2010 and based in London, Atchai is a digital <strong>consultancy
 [Paging Doctor Bot - Opportunities in Healthcare.](/blog/2016-08-16-paging-doctor-bot)<br>
 [Who's winning the Messenger App wars?](/blog/2016-08-11-whos-winning-the-messenger-app-wars)<br>
 [How much does it cost to build a bot?](/blog/2016-09-02-successful-chatbot-project)
-
