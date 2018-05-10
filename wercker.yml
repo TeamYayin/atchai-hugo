@@ -29,7 +29,7 @@ build:
     - npm-install
     - hgen/gulp:
             tasks: build
-    - arjen/hugo-build:
+    - arjen/hugo-build@1.29:
         version: "0.15"
         theme: atchai
         flags: --buildDrafts=false
