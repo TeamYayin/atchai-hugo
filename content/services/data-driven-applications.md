@@ -45,7 +45,7 @@ Our on-going Support Level Agreements (SLA) cover everything you need to keep yo
 
 ## We Build SaaS Applications
 
-[Dataseed is a platform for data visualisation, exploration, and analysis](http://getdataseed.com). It is the simplest way to create interactive dashboards with charts and maps. It can used on its own, or it can seamlessly integrated and customised to provide a visualisation layer for existing applications and data publishing products.
+[Dataseed is a platform for data visualisation, exploration, and analysis](/portfolio/dataseed). It is the simplest way to create interactive dashboards with charts and maps. It can used on its own, or it can seamlessly integrated and customised to provide a visualisation layer for existing applications and data publishing products.
 
 **Simple:** Just drag and drop to create, no programming skills required.
 

@@ -4,7 +4,7 @@ author: JohnGriffin
 slug: ""
 date: "2016-02-08"
 header_image: "/images/slominsidecover.png"
-tags: 
+tags:
   - Arduino
   - Jazz
   - Music
@@ -25,7 +25,7 @@ In this second part I’ll talk tech — how to make the Arduino speak MIDI,
 
 ## Development Process
 
-The prototype was built with an Arduino Pro board, plugged into some breadboard. For easy debugging I used the on-board serial over USB to send debug messages to my Macbook screen. [SoftwareSerial](https://www.arduino.cc/en/Reference/SoftwareSerial) was then used for MIDI out, which I connected to a synth to hear what was going on. 
+The prototype was built with an Arduino Pro board, plugged into some breadboard. For easy debugging I used the on-board serial over USB to send debug messages to my Macbook screen. [SoftwareSerial](https://www.arduino.cc/en/Reference/SoftwareSerial) was then used for MIDI out, which I connected to a synth to hear what was going on.
 
 Once the basic program for generating sequences and transposing them up and down was in place, I decided on what parameters I’d want to control with hardware knobs. Pots and switches were purchased and connected up, then I ported everything to a much smaller Nano ATMega328 board — a generic model that cost just £5.
 
@@ -45,7 +45,7 @@ As you can tell from the development process, the final product was arrived at t
 * Length of Sequence - number of notes in the sequence.
 * Range of Sequence - max distance of sequence notes from principal interval.
 * Start Note - lowest note that will be played.
-* Principal Interval - the number of semitones to transpose the sequence by each time. 
+* Principal Interval - the number of semitones to transpose the sequence by each time.
 * Speed - the time we wait between playing each note.
 
 You can see how these controls affect the output in the demo video at the top. Essentially, the process is to generate a random sequence of notes, given the **length**, **range**, and **start note** parameters, then to transpose this sequence up and down by the **principal interval**, waiting 1/**speed** between each note played. This sound clip gives you a fairly clear idea of the sort of patterns it produces:
@@ -54,7 +54,7 @@ You can see how these controls affect the output in the demo video at the top. E
 
 ### Arduino Code & Config
 
-The [full code and pinout is available on Github](https://github.com/johngriffin/slonimskiator). It’s not a work of art as this was only supposed to be a quick hack. I didn’t use any libraries (apart from [SoftwareSerial](https://www.arduino.cc/en/Reference/SoftwareSerial)) because there wasn’t really a need to. Sometimes this is the best way to dive in and learn as much as possible in a short amount of time. 
+The [full code and pinout is available on Github](https://github.com/johngriffin/slonimskiator). It’s not a work of art as this was only supposed to be a quick hack. I didn’t use any libraries (apart from [SoftwareSerial](https://www.arduino.cc/en/Reference/SoftwareSerial)) because there wasn’t really a need to. Sometimes this is the best way to dive in and learn as much as possible in a short amount of time.
 
 ![Inside the box. The Nano ATMega328 throbbing away in the centre, all human interfaces ensnared in it’s tentacles.](/images/slominside.png)
 
@@ -71,15 +71,15 @@ It turns out that we only ever really need to send one type of MIDI message �
 
 {{< gist johngriffin 3fe2e66b9d0cd49ef644 >}}
 
-To get the Arduino to do this you can use the following code: 
+To get the Arduino to do this you can use the following code:
 
 {{< gist johngriffin 84f92a9cbd934a1cb295 >}}
 
 ### Selecting Discrete Values with Pots
 
-Many of the controls select from a range of discrete values, however we are using potentiometers (variable resistors) to do this instead of more complex and expensive rotary encoders. 
+Many of the controls select from a range of discrete values, however we are using potentiometers (variable resistors) to do this instead of more complex and expensive rotary encoders.
 
-I’m sure there’s a better way to do this but my hacky method was to use the pot as a potential divider, read the voltage with analogRead(), then quantise the value into a variable number of allowed steps. Make sure you buy linear rather than log pots, I used 10kΩ. 
+I’m sure there’s a better way to do this but my hacky method was to use the pot as a potential divider, read the voltage with analogRead(), then quantise the value into a variable number of allowed steps. Make sure you buy linear rather than log pots, I used 10kΩ.
 
 {{< gist johngriffin 259f424f249a2c5e714d >}}
 
@@ -122,4 +122,4 @@ Here are some little vignettes that were recorded live while playing with the Sl
 
 If you’d like to collaborate on a music / tech project please [get in touch](mailto:john@atchai.com).
 
-When I’m not making weird noises I'm making exiting, innovative and scalable data driven applications for our clients at [Atchai](http://atchai.com/) and [Dataseed](https://getdataseed.com/).
+When I’m not making weird noises I'm making exiting, innovative and scalable data driven applications for our clients at [Atchai](http://atchai.com/).

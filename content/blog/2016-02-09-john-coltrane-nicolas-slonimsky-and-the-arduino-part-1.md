@@ -4,7 +4,7 @@ author: JohnGriffin
 slug: ""
 date: "2016-01-21"
 header_image: "/images/slomcover.png"
-tags: 
+tags:
   - Arduino
   - Jazz
   - Music
@@ -51,7 +51,7 @@ How can you actually apply this stuff? One option is to use the book for inspira
 <br>
 
 > The Slonimsky Thesaurus contains material which is virtually identical to portions of “Countdown” and “Giant Steps,” and Slonimksy may be the most direct link between John Coltrane and structural principles of the late nineteenth century…It is truly remarkable that a musicologist born nearly a century ago in Russia might have had such an effect on this jazz saxophonist.
-        
+
 > <em>(David Demsey, “Chromatic Third Relations in the Music of John Coltrane,” Annual Review of Jazz Studies 5 (1991): 154–5.)</em>
 
 The Demsey article quoted above goes into great detail about this, but for me the most obvious connections between Giant Steps and Slonimsky are:
@@ -88,5 +88,4 @@ Here are some sound clips that were recorded live while playing with the Slonims
 ## Call to Action…
 If you’d like to collaborate on a music / tech project please [get in touch](mailto:john@atchai.com).
 
-When I’m not making weird noises I'm making exiting, innovative and scalable data driven applications for our clients at [Atchai](http://atchai.com/) and [Dataseed](https://getdataseed.com/).
-
+When I’m not making weird noises I'm making exiting, innovative and scalable data driven applications for our clients at [Atchai](http://atchai.com/).

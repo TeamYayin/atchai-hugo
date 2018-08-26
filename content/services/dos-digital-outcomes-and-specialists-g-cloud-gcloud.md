@@ -5,7 +5,7 @@ author: "JohnGriffin"
 date: "2016-04-11"
 ---
 
-We deliver our expertise as technology consultants, developers and UX specialists through the **Crown Commercial Services’ Digital Outcomes and Specialists (DOS)** and **G-cloud** UK Government procurement frameworks. 
+We deliver our expertise as technology consultants, developers and UX specialists through the **Crown Commercial Services’ Digital Outcomes and Specialists (DOS)** and **G-cloud** UK Government procurement frameworks.
 
 Atchai specialises in setting up dedicated Agile product development teams, responsible for delivering innovative software solutions within a large public sector organisation.  Please see our <a href="/portfolio">portfolio</a> for examples of our work, our clients range from start-ups to large public sector organisations including NHS, HSCIC and Bank of England.  We regularly write about our work on our <a href="/blog">blog</a>.
 
@@ -51,7 +51,7 @@ Our on-going Support Level Agreements (SLA) cover everything you need to keep yo
 
 ## Case Study:  Data Discovery App
 
-[Dataseed is a platform for data visualisation, exploration, and analysis](http://getdataseed.com). It is the simplest way to create interactive dashboards with charts and maps. It can used on its own, or it can seamlessly integrated and customised to provide a visualisation layer for existing applications and data publishing products.
+[Dataseed is a platform for data visualisation, exploration, and analysis](/portfolio/dataseed). It is the simplest way to create interactive dashboards with charts and maps. It can used on its own, or it can seamlessly integrated and customised to provide a visualisation layer for existing applications and data publishing products.
 
 **Simple:** Just drag and drop to create, no programming skills required.
 
@@ -71,5 +71,5 @@ Our on-going Support Level Agreements (SLA) cover everything you need to keep yo
 >
 > Atchai’s ability to work in development sprints that result incompelling customer experiences is a clear signature. In fact, the entire Atchai experience is enjoyable, pragmatic, and pleasasantly surprising!
 >
-> <cite>Matthew Wilkinson - 
+> <cite>Matthew Wilkinson -
 > NHS</cite>
