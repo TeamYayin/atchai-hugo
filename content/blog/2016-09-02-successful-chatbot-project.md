@@ -161,10 +161,10 @@ performance and make informed decisions to continually improve the product.
 
 ## How much does it cost?
 
-Good question! And we’ll give you a simple answer…
+Good question! We’ll give you a simple answer…
 
 It can cost as little as £25k for an MVP — that’s a one week discovery
-phase and two sprints sprint to get a working product out there. We can deliver
+phase and two sprints to get a working product out there. We can deliver
 this cheaply and reliably because of the technology we’ve already built, allowing us to focus our time
 on designing an experience around your users and brand.
 
@@ -176,4 +176,4 @@ learning algorithms to be effective and meet product goals.
 We've built successful chatbot products for clients as diverse as the UK Department of International Trade,
 Asthma UK, Danone, and the South African Broadcasting Corporation (SABC).
 
-We’d love to help you realise your vision. If you think we can help you, please get in touch.
+We’d love to help you realise your vision.  You can [drop us a quick note](mailto:john@atchai.com) to set up a call.
