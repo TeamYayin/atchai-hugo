@@ -14,9 +14,9 @@ pluralizelisttitles = false
 
 [params.authors]
 	[params.authors.JohnGriffin]
-    name  = "John Griffin - Founder and Principal Consultant"
+    name  = "John Griffin - Founder and CEO"
 		thumbnail		= "/img/authors/vacant2.jpg"
-		bio				= "Armed with a Masters in Computer Systems Engineering and the experience gained from founding multiple companies, John has spent the last 14 years creating innovative digital products for start-ups, NGOs, large public sector and multinational organisations.  He is continually expanding his knowledge through dedicated R&D projects, areas of interest curretly include blockchain, machine learning and NLP. "
+		bio				= "Armed with a Masters in Computer Systems Engineering and the experience gained from founding multiple companies, John has spent the last 14 years creating innovative digital products for start-ups, NGOs, and Fortune 500 companies.  He is continually expanding his knowledge through dedicated R&D projects, areas of interest currently include blockchain, machine learning and NLP."
     email   = "john@atchai.com"
     linkedin = "https://www.linkedin.com/in/j0hngriffin"
     twitter = "https://twitter.com/johngriffin"
