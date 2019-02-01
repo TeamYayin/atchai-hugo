@@ -4,8 +4,6 @@ published: true
 title: "How to run a successful chatbot development project"
 author: JohnGriffin
 header_image: "/images/blog-healthcare-chatbots-user.jpg"
-header_image_attribution: "Coffee photo created by freepik - www.freepik.com"
-header_image_attribution_link: "https://www.freepik.com/free-photos-vectors/coffee"
 ---
 
 
