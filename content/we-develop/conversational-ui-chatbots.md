@@ -11,9 +11,9 @@ Messaging apps have become ubiquitous.  The top four messaging apps can claim hi
 
 <div class="container-fluid img-form">
     <div class="row intro-logo-container">
-        <div class="col-md-3 intro-logo"><a href="https://slack.com/"><img src="/img/slack.svg" alt="slack integration"></a></div>
-        <div class="col-md-2 circle intro-logo"><a href="https://en-gb.messenger.com/"><img src="/img/facebook-messenger.svg" alt="facebook messenger" style="margin-top:-10px"></a></div>
-        <div class="col-md-4 intro-logo"><a href="https://en.wikipedia.org/wiki/Amazon_Echo"><img src="/img/amazon-echo.svg" alt="amazon echo"></a></div>
+        <div class="col-md-3 intro-logo"><a href="https://slack.com/"><img src="/img/slack-black.svg" alt="slack integration"></a></div>
+        <div class="col-md-2 circle intro-logo"><a href="https://en-gb.messenger.com/"><img src="/img/facebook-messenger-black.svg" alt="facebook messenger" style="margin-top:-10px"></a></div>
+        <div class="col-md-4 intro-logo"><a href="https://en.wikipedia.org/wiki/Amazon_Echo"><img src="/img/amazon-echo-black.svg" alt="amazon echo"></a></div>
     </div>
 </div>
 
