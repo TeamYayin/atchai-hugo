@@ -3,7 +3,7 @@ date: "2016-09-02"
 published: true
 title: "How to run a successful chatbot development project"
 author: JohnGriffin
-header_image: "/images/blog-healthcare-chatbots-robot-doctor.png"
+header_image: "/images/blog-healthcare-chatbots-user.jpg"
 ---
 
 
