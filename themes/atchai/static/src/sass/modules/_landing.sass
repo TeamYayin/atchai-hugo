@@ -43,6 +43,16 @@
 
     .img-form
       margin-top: 45px
+      .intro-logo-container
+        display: flex
+        justify-content: center
+        align-items: center
+      .intro-logo
+        width: 18%
+        &.circle
+          width: 8%
+        img
+          filter: grayscale(100%)
       .row:not(:last-of-type)
         margin-bottom: 30px
         @media only screen and (max-width: 400px)
@@ -99,6 +109,8 @@
         color: black
       & + .testimonials
         padding-top: 30px
+      &-logo-container
+        margin-top: 10px
     &-container
       width: 70%
       margin: 0 auto
@@ -115,7 +127,9 @@
         z-index: 2
         a
           color: inherit
-          text-decoration: underline
+          text-decoration: none
+          &:hover 
+            text-decoration: underline
       &-img
         position: relative
         z-index: 3
