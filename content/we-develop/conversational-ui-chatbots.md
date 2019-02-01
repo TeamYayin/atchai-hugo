@@ -27,9 +27,9 @@ We develop chatbots for web, mobile and all the major messaging platforms includ
 <br>
 
 
-<a href="/we-develop/hippocamp"><img src="/img/hippocamp-logo.svg" style="max-width:50%"></a>
+<a href="/we-develop/loqativ"><img src="/img/loqativ-logo.svg" style="max-width:50%"></a>
 
-<a href="/we-develop/hippocamp">Hippocamp</a> is the brain behind our bots.  We built it to offer our customers full control of their data and complete flexibility in customising their bot's functionality.</p>
+<a href="/we-develop/loqativ">Loqativ</a> is the brain behind our bots.  We built it to offer our customers full control of their data and complete flexibility in customising their bot's functionality.</p>
 
 Used by everyone from the UK Government to multi-nationals.
 
