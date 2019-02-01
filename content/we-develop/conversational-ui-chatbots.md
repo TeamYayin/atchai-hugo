@@ -44,4 +44,4 @@ Established in 2010 and based in London, Atchai is a digital <strong>consultancy
 
 #### From our blog
 
-[How to run a successful chatbot project](/blog/2016-09-02-successful-chatbot-project)<br>
+<span class="single-post-link">[How to run a successful chatbot project](/blog/2016-09-02-successful-chatbot-project)</span><br>
