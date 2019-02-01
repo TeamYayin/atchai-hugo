@@ -1,7 +1,7 @@
 ---
-title: "Hippocamp Chatbot Platform / Engine for Facebook Messenger"
-header_image: "/images/hippocamp-header.png"
-partial_includes: ["case-studies-hippocamp.html", "testimonial-mindbot.html"]
+title: "Loqativ Chatbot Platform / Engine for Facebook Messenger"
+header_image: "/images/loqativ-logo-header.jpg"
+partial_includes: ["case-studies-loqativ.html", "testimonial-mindbot.html"]
 sitemap:
     priority: 0.8
 ---
@@ -9,12 +9,12 @@ sitemap:
 <br>
 
 ## Fully Customisable
-Hippocamp is our proprietry engine that powers all our chatbot projects.  It is now available for you to use too!  We provide a full chatbot co-creation service. We work with you to develop a concept, design and test the product in an iterative process with real users, and either provide a managed service or set up hosting on your own infrastructure.
+Loqativ is our proprietry engine that powers all our chatbot projects.  It is now available for you to use too!  We provide a full chatbot co-creation service. We work with you to develop a concept, design and test the product in an iterative process with real users, and either provide a managed service or set up hosting on your own infrastructure.
 
 <br>
 
 ##  Advanced NLP capabilities
-Hippocamp can integrate with any NLP system and Atchai has expertise in building custom NLP algorithms to meet non-standard requirements.
+Loqativ can integrate with any NLP system and Atchai has expertise in building custom NLP algorithms to meet non-standard requirements.
 
 
 
@@ -34,7 +34,7 @@ Hippocamp can integrate with any NLP system and Atchai has expertise in building
 </div>
 
 ## Multi-platform
-Hippocamp allows you to design your chatbot experience once and deploy it across all major platforms.  We support all features of <strong>Facebook Messenger</strong>.
+Loqativ allows you to design your chatbot experience once and deploy it across all major platforms.  We support all features of <strong>Facebook Messenger</strong>.
 
 <div class="container-fluid img-form">
     <div class="row">
@@ -73,7 +73,7 @@ You don't want to manage any more systems so we can seamlessly integrate with yo
 
 <br>
 ## Tried and Tested
-Used by everyone from UK Government to global brands, our bots have passed the most stringent security tests and we can ensure you pass through GDPR.  Our bots are blazingly fast as Hippocamp is build with Node.js and deployed on cloud infrastructure using Docker container management.
+Used by everyone from UK Government to global brands, our bots have passed the most stringent security tests and we can ensure you pass through GDPR.  Our bots are blazingly fast as Loqativ is build with Node.js and deployed on cloud infrastructure using Docker container management.
 
 
 <br><br>
@@ -101,5 +101,5 @@ Used by everyone from UK Government to global brands, our bots have passed the m
 
 <br><br><br>
 
-## Projects Powered by Hippocamp
+## Projects Powered by Loqativ
 

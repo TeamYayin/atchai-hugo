@@ -5,6 +5,17 @@
     color: #262626
     padding-top: 4.5%
     font-family: Raleway-Regular
+    .single-post-link
+      a
+        color: black
+        font-size: 17px;
+        line-height: 1.5;
+        font-family: Raleway-SemiBold, sans-serif;
+        margin-top: 20px;
+
+        &:hover
+          text-decoration: none
+          opacity: 0.7
     .landing-top-block
       width: 75%
       margin: 0 auto
@@ -43,6 +54,14 @@
 
     .img-form
       margin-top: 45px
+      .intro-logo-container
+        display: flex
+        justify-content: center
+        align-items: center
+      .intro-logo
+        width: 18%
+        &.circle
+          width: 8%
       .row:not(:last-of-type)
         margin-bottom: 30px
         @media only screen and (max-width: 400px)
@@ -99,6 +118,8 @@
         color: black
       & + .testimonials
         padding-top: 30px
+      &-logo-container
+        margin-top: 10px
     &-container
       width: 70%
       margin: 0 auto
@@ -115,7 +136,9 @@
         z-index: 2
         a
           color: inherit
-          text-decoration: underline
+          text-decoration: none
+          &:hover 
+            text-decoration: underline
       &-img
         position: relative
         z-index: 3

@@ -12,7 +12,7 @@ Bots are a great solution for bridging gaps in the customer journey and offering
 
 ![](/img/case-study-danone.png "Cows milk allergy facebook messenger bot screenshot") 
 
-The CMA bot is built on our propriery [Hippocamp chatbot engine](/we-develop/hippocamp/).  All our customers benefit from Hippocamp, which provides them with a powerful and robust engine that we customise with rules for your particular bot. 
+The CMA bot is built on our propriery [Loqativ chatbot engine](/we-develop/loqativ/).  All our customers benefit from Loqativ, which provides them with a powerful and robust engine that we customise with rules for your particular bot. 
 
 
 <p style="text-align: center;">
