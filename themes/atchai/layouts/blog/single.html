@@ -3,7 +3,7 @@
     {{ if isset .Params "header_image"  }}
       <img src="{{ .Params.header_image }}" class="blog-image">
       {{ if isset .Params "header_image_attribution" }}
-        <a class="header_image_attribution" href="{{ .Params.header_image_attribution_link }}">{{ .Params.header_image_attribution }}</a>
+        <a class="header_image_attribution" href="{{ .Params.header_image_attribution_link }}" target="_blank">{{ .Params.header_image_attribution }}</a>
       {{ end }}
     {{ end }}
 
