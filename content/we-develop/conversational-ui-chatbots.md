@@ -16,10 +16,16 @@ Messaging apps have become ubiquitous.  The top four messaging apps can claim hi
 We develop chatbots for web, mobile and all the major messaging platforms including <strong>Facebook Messenger</strong>, <strong>Slack</strong> and voice interfaces such as <strong>Amazon Alexa</strong>.  We provide a full chatbot co-creation service, working with you to develop a concept, design and test the product in an iterative process with real users.  Our machine learning and NLP experience helps us inject magic into the experience!
 
 <div class="container-fluid img-form">
-    <div class="row intro-logo-container">
-        <div class="col-md-3 intro-logo"><a href="https://slack.com/" target="_blank"><img src="/img/slack-black.svg" alt="slack integration"></a></div>
-        <div class="col-md-2 circle intro-logo"><a href="https://en-gb.messenger.com/" target="_blank"><img src="/img/facebook-messenger-black.svg" alt="facebook messenger" style="margin-top:-10px"></a></div>
-        <div class="col-md-4 intro-logo"><a href="https://en.wikipedia.org/wiki/Amazon_Alexa" target="_blank"><img src="/img/alexa-logo-black.png" alt="amazon echo"></a></div>
+    <div class="row logo-container">
+        <div class="col-md-3 logo">
+        	<a href="https://slack.com/" target="_blank"><img src="/img/slack-black.svg" alt="slack integration"></a>
+        </div>
+        <div class="col-md-2 circle logo">
+        	<a href="https://en-gb.messenger.com/" target="_blank"><img src="/img/facebook-messenger-black.svg" alt="facebook messenger" style="margin-top:-10px"></a>
+        </div>
+        <div class="col-md-4 logo">
+        	<a href="https://en.wikipedia.org/wiki/Amazon_Alexa" target="_blank"><img src="/img/alexa-logo-black.png" alt="alexa logo"></a>
+        </div>
     </div>
 </div>
 
