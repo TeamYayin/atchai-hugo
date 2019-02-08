@@ -10,12 +10,12 @@ sitemap:
     <img src="/img/loqativ-platform-graphic.svg" alt="loqativ platform graphic">
 </div>
 
-<br>
+<br><br>
 
 ## Fully Customisable
 Loqativ is our proprietry engine that powers all our chatbot projects.  It is now available for you to use too!  We provide a full chatbot co-creation service. We work with you to develop a concept, design and test the product in an iterative process with real users, and either provide a managed service or set up hosting on your own infrastructure.
 
-<br>
+<br><br>
 
 ##  Advanced NLP capabilities
 Loqativ can integrate with any NLP system and Atchai has expertise in building custom NLP algorithms to meet non-standard requirements.
@@ -28,7 +28,7 @@ Loqativ can integrate with any NLP system and Atchai has expertise in building c
     </div>
 </div>
 
-<br>
+<br><br>
 
 ## Multi-platform
 Loqativ allows you to design your chatbot experience once and deploy it across all major platforms.  We support all features of <strong>Facebook Messenger</strong>.
@@ -41,21 +41,21 @@ Loqativ allows you to design your chatbot experience once and deploy it across a
     </div>
 </div>
 
-<br>
+<br><br>
 
 ## Push Notifications
 You can push updates to your subscribers in real-time. Facebook Messenger is a one to one channel so you're not competing to get your content seen in the Facebook news feed.
 
 <img src="/images/daily-planet-push.png" alt="real time updates facebook messenger" style="width:50%">
 
-<br>
+<br><br>
 
 ## Drive Engagement
 Set up quizzes, competitions and polls to solicit user generated content from your users.  Capture a wide range of media including photos, videos and audio.
 
 <img src="/images/daily-planet-ugc.png" alt="ugc bot facebook messenger" style="width:50%">
 
-<br>
+<br><br>
 
 ## Analytics
 We'll set up real-time analytics with the market leading bot analytics products.  You'll be able to see every interaction with your bot along with aggregate statistics on usage and KPIs. 
@@ -63,12 +63,12 @@ We'll set up real-time analytics with the market leading bot analytics products.
 
 <img src="/images/lastseen-engagement.png" style="width:100%">
 
-<br>
+<br><br>
 
 ## No Management Overhead
 You don't want to manage any more systems so we can seamlessly integrate with your existing CMS or CRM.  This allows you to update content in the bot easily with no additional overhead.
 
-<br>
+<br><br>
 ## Tried and Tested
 Used by everyone from UK Government to global brands, our bots have passed the most stringent security tests and we can ensure you pass through GDPR.  Our bots are blazingly fast as Loqativ is build with Node.js and deployed on cloud infrastructure using Docker container management.
 
