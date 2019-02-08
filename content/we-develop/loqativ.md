@@ -36,8 +36,8 @@ Loqativ allows you to design your chatbot experience once and deploy it across a
 <div class="container-fluid img-form">
     <div class="row logo-container">
         <div class="col-md-3 logo"><a href="https://slack.com/" target="_blank"><img src="/img/slack-black.svg" alt="slack integration"></a></div>
-        <div class="col-md-2 circle logo"><a href="https://en-gb.messenger.com/" target="_blank"><img src="/img/facebook-messenger-black.svg" alt="facebook messenger" style="margin-top:-10px"></a></div>
-        <div class="col-md-4 logo"><a href="https://en.wikipedia.org/wiki/Amazon_Alexa" target="_blank"><img src="/img/alexa-logo-black.png" alt="alexa logo"></a></div>
+        <div class="col-md-2 logo circle"><a href="https://en-gb.messenger.com/" target="_blank"><img src="/img/facebook-messenger-black.svg" alt="facebook messenger" style="margin-top:-10px"></a></div>
+        <div class="col-md-4 logo larger"><a href="https://en.wikipedia.org/wiki/Amazon_Alexa" target="_blank"><img src="/img/alexa-logo-black.png" alt="alexa logo"></a></div>
     </div>
 </div>
 
