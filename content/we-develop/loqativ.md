@@ -6,6 +6,10 @@ sitemap:
     priority: 0.8
 ---
 
+<div class="header-graphic">
+    <img src="/img/loqativ-platform-graphic.svg" alt="loqativ platform graphic">
+</div>
+
 <br>
 
 ## Fully Customisable
@@ -16,31 +20,24 @@ Loqativ is our proprietry engine that powers all our chatbot projects.  It is no
 ##  Advanced NLP capabilities
 Loqativ can integrate with any NLP system and Atchai has expertise in building custom NLP algorithms to meet non-standard requirements.
 
-
-
 <div class="container-fluid img-form" style="margin-top:15px">
-
-    <div class="row">
-        <div class="col-md-2 circle" >
-                <img src="/img/Api.ai_logo.svg" alt="api.ai">
-        </div>
-        <div class="col-md-2 circle">
-                <img src="/img/wit.ai-logo.svg" alt="wit.ai">
-        </div>
-        <div class="col-md-2 circle">
-                <img src="/img/ibm_watson_logo.svg" alt="ibm watson">
-        </div>
+    <div class="row logo-container">
+        <div class="col-md-2 circle"><img src="/img/dialogflow-black.svg" alt="Dialogflow"></div>
+        <div class="col-md-2 circle"><img src="/img/wit.ai-black.svg" alt="wit.ai"></div>
+        <div class="col-md-2 circle"><img src="/img/ibm_watson_logo-black.png" alt="ibm watson"></div>
     </div>
 </div>
+
+<br>
 
 ## Multi-platform
 Loqativ allows you to design your chatbot experience once and deploy it across all major platforms.  We support all features of <strong>Facebook Messenger</strong>.
 
 <div class="container-fluid img-form">
-    <div class="row">
-        <div class="col-md-3"><a href="https://slack.com/"><img src="/img/slack.svg" alt="slack integration"></a></div>
-        <div class="col-md-2 circle"><a href="https://en-gb.messenger.com/"><img src="/img/facebook-messenger.svg" alt="facebook messenger" style="margin-top:-10px"></a></div>
-        <div class="col-md-4"><a href="https://en.wikipedia.org/wiki/Amazon_Echo"><img src="/img/amazon-echo.svg" alt="amazon echo"></a></div>
+    <div class="row logo-container">
+        <div class="col-md-3 logo"><a href="https://slack.com/" target="_blank"><img src="/img/slack-black.svg" alt="slack integration"></a></div>
+        <div class="col-md-2 circle logo"><a href="https://en-gb.messenger.com/" target="_blank"><img src="/img/facebook-messenger-black.svg" alt="facebook messenger" style="margin-top:-10px"></a></div>
+        <div class="col-md-4 logo"><a href="https://en.wikipedia.org/wiki/Amazon_Alexa" target="_blank"><img src="/img/alexa-logo-black.png" alt="alexa logo"></a></div>
     </div>
 </div>
 
