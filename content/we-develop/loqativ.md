@@ -46,14 +46,14 @@ Loqativ allows you to design your chatbot experience once and deploy it across a
 ## Push Notifications
 You can push updates to your subscribers in real-time. Facebook Messenger is a one to one channel so you're not competing to get your content seen in the Facebook news feed.
 
-<img src="/images/hippocamp-push.jpg" alt="real time updates facebook messenger" style="width:50%">
+<img src="/images/daily-planet-push.png" alt="real time updates facebook messenger" style="width:50%">
 
 <br>
 
 ## Drive Engagement
 Set up quizzes, competitions and polls to solicit user generated content from your users.  Capture a wide range of media including photos, videos and audio.
 
-<img src="/images/hippocamp-ugc.jpg" alt="ugc bot facebook messenger" style="width:50%">
+<img src="/images/daily-planet-ugc.png" alt="ugc bot facebook messenger" style="width:50%">
 
 <br>
 
@@ -96,7 +96,9 @@ Used by everyone from UK Government to global brands, our bots have passed the m
 
 <!--End mc_embed_signup-->
 
-<br><br><br>
+<br><br>
 
-## Projects Powered by Loqativ
+#### From our blog
+
+<span class="single-post-link">[How to run a successful chatbot project](/blog/2016-09-02-successful-chatbot-project)</span><br>
 
