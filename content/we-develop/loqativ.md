@@ -6,6 +6,10 @@ sitemap:
     priority: 0.8
 ---
 
+<h3>Loqativ is a powerful, flexible chatbot platform with an API for easy integration</h3>
+
+<br><br>
+
 <div class="header-graphic">
     <img src="/img/loqativ-platform-graphic.svg" alt="loqativ platform graphic">
 </div>
@@ -58,7 +62,7 @@ Set up quizzes, competitions and polls to solicit user generated content from yo
 <br><br>
 
 ## Analytics
-We'll set up real-time analytics with the market leading bot analytics products.  You'll be able to see every interaction with your bot along with aggregate statistics on usage and KPIs. 
+We'll set up real-time analytics with the market leading bot analytics products.  You'll be able to see every interaction with your bot along with aggregate statistics on usage and KPIs.
 
 
 <img src="/images/lastseen-engagement.png" style="width:100%">
@@ -101,4 +105,3 @@ Used by everyone from UK Government to global brands, our bots have passed the m
 #### From our blog
 
 <span class="single-post-link">[How to run a successful chatbot project](/blog/2016-09-02-successful-chatbot-project)</span><br>
-
