@@ -17,12 +17,12 @@ sitemap:
 <br><br>
 
 ## Fully Customisable
-Loqativ is our proprietry engine that powers all our chatbot projects.  It is now available for you to use too!  We provide a full chatbot co-creation service. We work with you to develop a concept, design and test the product in an iterative process with real users, and either provide a managed service or set up hosting on your own infrastructure.
+Loqativ is our proprietary engine that powers all our chatbot projects. We provide a full chatbot co-creation service. We work with you to develop a concept, design and test the product in an iterative process with real users, and either provide a managed service or set up hosting on your own infrastructure.
 
 <br><br>
 
 ##  Advanced NLP capabilities
-Loqativ can integrate with any NLP system and Atchai has expertise in building custom NLP algorithms to meet non-standard requirements.
+Loqativ can integrate with any NLP system and Atchai has expertise in building custom NLP solutions to meet non-standard requirements.
 
 <div class="container-fluid img-form" style="margin-top:15px">
     <div class="row logo-container">
@@ -35,7 +35,7 @@ Loqativ can integrate with any NLP system and Atchai has expertise in building c
 <br><br>
 
 ## Multi-platform
-Loqativ allows you to design your chatbot experience once and deploy it across all major platforms.  We support all features of <strong>Facebook Messenger</strong>.
+Loqativ allows you to design your chatbot experience once and deploy it across all major platforms.  We support all features of <strong>Facebook Messenger</strong> out of the box and can integrate with your existing mobile app or website.
 
 <div class="container-fluid img-form">
     <div class="row logo-container">
@@ -62,7 +62,7 @@ Set up quizzes, competitions and polls to solicit user generated content from yo
 <br><br>
 
 ## Analytics
-We'll set up real-time analytics with the market leading bot analytics products.  You'll be able to see every interaction with your bot along with aggregate statistics on usage and KPIs.
+We'll set up real-time analytics with the market leading bot analytics products.  You'll be able to see every interaction with your bot along with aggregate statistics on usage and custom KPIs.
 
 
 <img src="/images/lastseen-engagement.png" style="width:100%">
@@ -74,7 +74,7 @@ You don't want to manage any more systems so we can seamlessly integrate with yo
 
 <br><br>
 ## Tried and Tested
-Used by everyone from UK Government to global brands, our bots have passed the most stringent security tests and we can ensure you pass through GDPR.  Our bots are blazingly fast as Loqativ is build with Node.js and deployed on cloud infrastructure using Docker container management.
+Used by everyone from UK Government to Fortune 500 FMCG and media brands, our bots have passed the most stringent security tests and we can ensure you are GDPR compliant.  Our bots are blazingly fast as Loqativ is build with Node.js and deployed on cloud infrastructure using Docker container management.
 
 
 <br><br>
