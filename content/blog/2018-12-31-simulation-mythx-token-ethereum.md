@@ -117,7 +117,11 @@ By the end of the simulation (approx 3.5 years) the service providers have made 
 
 We can see that the founders have sold 1.6M of 2M total tokens allocated to them by time step 30,000, which is about 3.5 years.
 
+<<<<<<< HEAD
+#### Monetary policy
+=======
 #### Monetary policy 
+>>>>>>> styling
 
 The token is created primarily based on demand for the service it is used to pay for, and then it is sold back to the market by the service providers. In the above charts the service provider is acting on a simple rule of holding the tokens until the price is above $1.05 and then selling 10% of the tokens they are holding.
 
