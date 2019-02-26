@@ -1,5 +1,5 @@
 ---
-title: "Loqativ Chatbot Platform / Engine for Facebook Messenger"
+title: "Loqativ Chatbot Platform / Engine"
 header_image: "/images/loqativ-logo-header.jpg"
 partial_includes: ["case-studies-loqativ.html", "testimonial-mindbot.html"]
 sitemap:
@@ -11,7 +11,7 @@ sitemap:
 <br><br>
 
 <div class="header-graphic">
-    <img src="/img/loqativ-platform-graphic.svg" alt="loqativ platform graphic">
+    <img src="/img/loqativ-platform-graphic.svg" alt="loqativ platform facebook messenger bots">
 </div>
 
 <br><br>
