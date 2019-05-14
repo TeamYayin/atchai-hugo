@@ -17,30 +17,25 @@
           text-decoration: none
           opacity: 0.7
     .landing-top-block
-      width: 75%
+      width: 64%
       margin: 0 auto
       background-color: white
-      padding: 0 9% 5%
+      padding: 1% 9% 2%
       text-align: center
       @media only screen and (max-width: 600px)
         width: 90%
       h1
         text-transform: uppercase
-        border-bottom: 1px solid black
         font-weight: 800
         font-family: 'Raleway', sans-serif
-        font-size: 60px
-        letter-spacing: 3px
+        font-size: 43px
         display: inline-block
-        line-height: 1.7
         @media only screen and (max-width: 1200px)
           font-size: 45px
         @media only screen and (max-width: 1023px)
           font-size: 40px
         @media only screen and (max-width: 767px)
           font-size: 28px
-        @media only screen and (max-width: 500px)
-          font-size: 20px
       h2
         font-family: Raleway-Light
         text-transform: uppercase
@@ -50,13 +45,30 @@
         line-height: 1.4
         strong
           font-weight: normal
-          font-family: Raleway-SemiBold  
+          font-family: Raleway-SemiBold
+      .landing-top-content
+        h3
+          font-size: 28px
+          font-weight: 800
+          text-align: left
+          @media only screen and (max-width: 767px)
+            font-size: 20px
+        #some-of-our-recent-blockchain-projects
+          text-align: center
+          @media only screen and (max-width: 767px)
+            font-size: 20px
+        p
+          text-align: left
       .header-graphic 
         img
-          width: 100%
-          margin-bottom: 32px
+          width: 80%
+          margin: 32px 0 0
+          position: relative
+          left: -30px
           @media only screen and (max-width: 500px)
             margin-bottom: 0
+            width: 100%;
+            position: unset
 
     .img-form
       margin-top: 45px
