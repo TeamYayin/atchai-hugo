@@ -35,7 +35,6 @@ We created Economy.os to simulate and evaluate blockchain-based economies and in
 <br>
 <br>
 <br>
-
 <br>
 
 <!---
