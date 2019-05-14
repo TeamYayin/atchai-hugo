@@ -1,7 +1,7 @@
 ---
 title: "Ethereum and blockchain development agency in London"
 H1: "Blockchain Development"
-partial_includes: ["case-studies-blockchain.html", "testimonial-mindbot.html"]
+partial_includes: ["case-studies-blockchain.html", "testimonial-consensys.html"]
 sitemap:
     priority: 0.8
 ---
