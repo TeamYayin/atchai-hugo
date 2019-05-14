@@ -1,7 +1,7 @@
 ---
 author: JohnGriffin
 date: "2016-05-31"
-published: true
+published: false
 header_image: "/images/blog-vinylst-header.jpg"
 title: "Is Your Start-up Idea Really Worth It?"
 ---
@@ -371,4 +371,3 @@ we can act as an interim CTO for you, helping you to develop your product, while
 you raise investment and recruit a permanent team.
 
 If you’re ready to take your product to the next level then feel free to get in touch with me directly.
-
