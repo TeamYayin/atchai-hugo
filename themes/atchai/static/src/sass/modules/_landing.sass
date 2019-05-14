@@ -148,7 +148,10 @@
     &-container
       .case-study-logo
         max-width: 90px
-        margin-top: 16px
+        margin-top: 0px
+        &-container
+          @media only screen and (max-width: 500px)
+            text-align: center
       width: 70%
       margin: 0 auto
       h2
