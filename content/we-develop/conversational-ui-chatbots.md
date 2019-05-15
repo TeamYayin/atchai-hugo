@@ -15,8 +15,8 @@ We develop chatbots for web, mobile and all the major messaging platforms includ
 Established in 2010 and based in London, Atchai is a digital <strong>consultancy</strong> and <strong>development</strong> house based in <strong>London, UK</strong>. We create <strong>innovative</strong> digital products for both fast-moving <strong>start-ups</strong> and massive <strong>enterprise</strong> organisations such as Bank of England, NHS, and Turner Broadcasting.
 
 <br>
-### <a href="/we-develop/loqativ">Loqativ</a>
-<!-- <a href="/we-develop/loqativ"><img src="/img/loqativ-logo.svg" style="max-width:50%"></a> -->
+<a href="/we-develop/loqativ"><img id="chatbot-loqativ-logo" src="/img/loqativ-logo.svg" style="max-width:50%"></a>
+<br>
 Loqativ is a powerful, flexible chatbot platform with an API for easy integration
 
 <br>
