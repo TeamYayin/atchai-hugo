@@ -17,7 +17,7 @@ Established in 2010 and based in London, Atchai is a digital <strong>consultancy
 <br>
 <a href="/we-develop/loqativ"><img id="chatbot-loqativ-logo" src="/img/loqativ-logo.svg" style="max-width:50%"></a>
 <br>
-Loqativ is a powerful, flexible chatbot platform with an API for easy integration
+Loqativ is a powerful, flexible chatbot platform with an API for easy integration.  We built it to offer our customers full ownership of their data and complete flexibility in customising their bot's functionality.
 
 <br>
 <div class="header-graphic">

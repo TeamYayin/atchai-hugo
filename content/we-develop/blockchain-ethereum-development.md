@@ -8,14 +8,14 @@ sitemap:
 
 <br>
 ### Decentralized Application Development
-We build decentralized applications (dApps) on the Ethereum platform. These applications are deployed either on the public blockchain or in a private permissioned environment.  
+We build decentralized applications (dApps) that are deployed either on a public blockchain or on a private permissioned enterprise blockchain.  
 
-Our team have extensive experience with developing smart contracts using solidity and adhering to security best practices.  Our code has been audited and approved by leading auditors including ConsenSys Dilligence.
+Our team have extensive experience with developing smart contracts and adhering to security best practices.  Our code has been audited and approved by leading auditors including ConsenSys Dilligence.
 
 Our CEO is a founding member of the <a href="https://1337alliance.com/">EIP1337</a> working group and is active in the development of improvements and new standards for the Ethereum ecosystem.
 
 <br>
-### Full Product Development
+### Full Service
 Do you need a <strong>technical partner</strong> who can help develop your product roadmap and turn it into reality?  We work with you in an open, <a href="about-us/how-we-work/">collaborative Agile process</a>, delivering working software from the very first sprint.  We understand what's required to bring a new product to market - from validation, through to <strong>scaling for millions of users</strong>.
 
 <br>
@@ -24,10 +24,10 @@ Established in 2010 and based in London, Atchai is a digital <strong>consultancy
 
 <br>
 <br>
-<img id="blockchain-economyos-logo" src="/img/economyos-logo.svg">
+<img id="blockchain-economyos-logo" src="/img/economyos-logo.svg" width="">
 <br>
 <br>
-We created Economy.os to simulate and evaluate blockchain-based economies and incentive systems.</h4>
+We created Economy.os to simulate and evaluate blockchain-based economies and incentive systems.  Our advanced simulations use multi-agent systems and reinforcement learning to model and optimise these complex systems.</h4>
 <br>
 <br>
 
