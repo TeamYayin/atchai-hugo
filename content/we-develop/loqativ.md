@@ -6,22 +6,17 @@ sitemap:
     priority: 0.8
 ---
 
-<h3>Loqativ is a powerful, flexible chatbot platform with an API for easy integration</h3>
-
-<br><br>
-
+<h4>Loqativ is a powerful, flexible chatbot platform with an API for easy integration</h3>
 <div class="header-graphic">
     <img src="/img/loqativ-platform-graphic.svg" alt="loqativ platform facebook messenger bots">
 </div>
 
-<br><br>
-
-## Fully Customisable
+<br>
+### Fully Customisable
 Loqativ is our proprietary engine that powers all our chatbot projects. We provide a full chatbot co-creation service. We work with you to develop a concept, design and test the product in an iterative process with real users, and either provide a managed service or set up hosting on your own infrastructure.
 
-<br><br>
-
-##  Advanced NLP capabilities
+<br>
+###  Advanced NLP capabilities
 Loqativ can integrate with any NLP system and Atchai has expertise in building custom NLP solutions to meet non-standard requirements.
 
 <div class="container-fluid img-form" style="margin-top:15px">
@@ -32,9 +27,9 @@ Loqativ can integrate with any NLP system and Atchai has expertise in building c
     </div>
 </div>
 
-<br><br>
-
-## Multi-platform
+<br>
+<br>
+### Multi-platform
 Loqativ allows you to design your chatbot experience once and deploy it across all major platforms.  We support all features of <strong>Facebook Messenger</strong> out of the box and can integrate with your existing mobile app or website.
 
 <div class="container-fluid img-form">
@@ -45,39 +40,47 @@ Loqativ allows you to design your chatbot experience once and deploy it across a
     </div>
 </div>
 
-<br><br>
-
-## Push Notifications
+<br>
+<br>
+### Push Notifications
 You can push updates to your subscribers in real-time. Facebook Messenger is a one to one channel so you're not competing to get your content seen in the Facebook news feed.
+<br>
+<br>
+<br>
+<div class="header-image-container">
+    <img class="header-image" src="/images/daily-planet-push.png" alt="real time updates facebook messenger" style="width:50%">
+</div>
 
-<img src="/images/daily-planet-push.png" alt="real time updates facebook messenger" style="width:50%">
-
-<br><br>
-
-## Drive Engagement
+<br>
+### Drive Engagement
 Set up quizzes, competitions and polls to solicit user generated content from your users.  Capture a wide range of media including photos, videos and audio.
+<br>
+<br>
+<br>
+<div class="header-image-container">
+    <img src="/images/daily-planet-ugc.png" alt="ugc bot facebook messenger" style="width:50%">
+</div>
 
-<img src="/images/daily-planet-ugc.png" alt="ugc bot facebook messenger" style="width:50%">
-
-<br><br>
-
-## Analytics
+<br>
+### Analytics
 We'll set up real-time analytics with the market leading bot analytics products.  You'll be able to see every interaction with your bot along with aggregate statistics on usage and custom KPIs.
+<br>
+<br>
+<br>
+<div class="header-image-container">
+    <img src="/images/lastseen-engagement.png" style="width:100%">
+<div class="header-image-container">
 
-
-<img src="/images/lastseen-engagement.png" style="width:100%">
-
-<br><br>
-
-## No Management Overhead
+<br>
+### No Management Overhead
 You don't want to manage any more systems so we can seamlessly integrate with your existing CMS or CRM.  This allows you to update content in the bot easily with no additional overhead.
 
-<br><br>
-## Tried and Tested
+<br>
+### Tried and Tested
 Used by everyone from UK Government to Fortune 500 FMCG and media brands, our bots have passed the most stringent security tests and we can ensure you are GDPR compliant.  Our bots are blazingly fast as Loqativ is build with Node.js and deployed on cloud infrastructure using Docker container management.
 
-
-<br><br>
+<br>
+<br>
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
@@ -102,6 +105,6 @@ Used by everyone from UK Government to Fortune 500 FMCG and media brands, our bo
 
 <br><br>
 
-#### From our blog
+#### <strong>From our blog</strong>
 
-<span class="single-post-link">[How to run a successful chatbot project](/blog/2016-09-02-successful-chatbot-project)</span><br>
+#### [How to run a successful chatbot project](/blog/2016-09-02-successful-chatbot-project)

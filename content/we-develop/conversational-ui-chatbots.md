@@ -6,33 +6,26 @@ sitemap:
     priority: 0.8
 ---
 
-
+<br>
 ### Chatbot development
 We develop chatbots for web, mobile and all the major messaging platforms including <strong>Facebook Messenger</strong>, <strong>Slack</strong> and voice interfaces such as <strong>Amazon Alexa</strong>.  We provide a full chatbot co-creation service, working with you to develop a concept, design and test the product in an iterative process with real users.  Our machine learning and NLP experience helps us inject magic into the experience!
 
-
+<br>
 ### About Atchai
 Established in 2010 and based in London, Atchai is a digital <strong>consultancy</strong> and <strong>development</strong> house based in <strong>London, UK</strong>. We create <strong>innovative</strong> digital products for both fast-moving <strong>start-ups</strong> and massive <strong>enterprise</strong> organisations such as Bank of England, NHS, and Turner Broadcasting.
 
+<br>
+### <a href="/we-develop/loqativ">Loqativ</a>
+<!-- <a href="/we-develop/loqativ"><img src="/img/loqativ-logo.svg" style="max-width:50%"></a> -->
+Loqativ is a powerful, flexible chatbot platform with an API for easy integration
 
 <br>
-<br>
-<br>
-
-
-<a href="/we-develop/loqativ"><img src="/img/loqativ-logo.svg" style="max-width:50%"></a>
-<h4>Loqativ is a powerful, flexible chatbot platform with an API for easy integration</h4>
-
-<br>
-
-
 <div class="header-graphic">
   <a href="/we-develop/loqativ"><img src="/img/loqativ-platform-graphic.svg" alt="loqativ platform facebook messenger bots"></a>
 </div>
 <br>
 <br>
 <br>
-
 <br>
 
 <!---
@@ -40,4 +33,7 @@ Established in 2010 and based in London, Atchai is a digital <strong>consultancy
 
 <span class="single-post-link">[How to run a successful chatbot project](/blog/2016-09-02-successful-chatbot-project)</span><br>
 --->
-### Some of our recent conversational AI projects
+### <h3 class="case-study-header">Some of our recent conversational AI projects</h3>
+<div class="icon-arrow-down">
+	<img src="/images/arrow-down.svg">
+</div>

@@ -42,7 +42,7 @@ We created Economy.os to simulate and evaluate blockchain-based economies and in
 
 <span class="single-post-link">[How to run a successful chatbot project](/blog/2016-09-02-successful-chatbot-project)</span><br>
 --->
-### Some of our recent blockchain projects
+### <h3 class="case-study-header">Some of our recent blockchain projects</h3>
 <div class="icon-arrow-down">
 	<img src="/images/arrow-down.svg">
 </div>
