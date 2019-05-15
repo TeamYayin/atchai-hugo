@@ -23,7 +23,10 @@ Do you need a <strong>technical partner</strong> who can help develop your produ
 Established in 2010 and based in London, Atchai is a digital <strong>consultancy</strong> and <strong>development</strong> house based in <strong>London, UK</strong>. We create <strong>innovative</strong> digital products for both fast-moving <strong>start-ups</strong> and massive <strong>enterprise</strong> organisations such as Bank of England, NHS, and Unilever.
 
 <br>
-### Economy.os
+<br>
+<img id="blockchain-economyos-logo" src="/img/economyos-logo.svg">
+<br>
+<br>
 We created Economy.os to simulate and evaluate blockchain-based economies and incentive systems.</h4>
 <br>
 <br>
