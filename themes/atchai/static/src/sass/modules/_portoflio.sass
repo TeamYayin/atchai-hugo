@@ -22,20 +22,22 @@
     &-dataseed-chevron
         +chevron-index-null($about-bg)
 
-    &-groupseer-chevron
+    &-danone-chevron,
+    &-mindbot-chevron,
+    &-lastseen-chevron,
+    &-groupseer-chevron,
+    &-data-chevron,
+    &-newsverify-chevron
         +chevron(white)
 
-    &-resultsmark-chevron
+    &-clinical-chevron,
+    &-dataseed-chevron,
+    &-resultsmark-chevron,
+    &-dit-chevron,
+    &-mythx-chevron,
+    &-eyewitness-chevron,
+    &-echonote-chevron
         +chevron(black)
-
-    &-newsverify-chevron
-        +chevron-index(#F2F2F2)
-
-    &-data-chevron
-        +chevron(#F2F2F2)
-
-    &-clinical-chevron
-        +chevron-index(black)
 
     &-tv-chevron
         background-color: black
@@ -74,7 +76,6 @@
             color: white
 
     &-data
-        color: black
         z-index: 1
 
         &-bottom
@@ -99,17 +100,19 @@
             margin: 0 auto
             margin-bottom: 17.5px
 
-        h2 a
-            color: black
-
     &-clinical
         
         .portfolio-logo-image
-        margin-top: 0
-        position: relative
+            margin-top: 0
+            position: relative
+            text-align: center
 
-        img
-            max-width: 230px
+            img
+                max-width: 230px
+
+        #hscic-logo
+            max-width: 150px
+            margin-top: 20px
 
         .client-hscic
             position: absolute
@@ -118,7 +121,6 @@
             color: white
 
     &-newsverify
-        color: black
 
         .portfolio-logo-image
 
@@ -131,12 +133,7 @@
 
             .social
                 max-width: 400px
-
-        h2
-            a
-                font-family: Raleway-Bold
-                display: inline-block
-                color: black
+                margin-top: 0px
 
         .portfolio-logo
             display: inline-block
@@ -152,7 +149,12 @@
         .portfolio-tech p
             color: white
 
-    &-resultsmark
+    &-dit,
+    &-eyewitness,
+    &-dataseed,
+    &-echonote,
+    &-resultsmark,
+    &-clinical
 
         h2
             a
@@ -166,11 +168,26 @@
             margin: 0 auto
             margin-bottom: 17.5px
 
-
     &-groupseer
+        .portfolio-logo-image img
+            max-width: 300px
+
+    &-newsverify,
+    &-data,
+    &-groupseer,
+    &-lastseen,
+    &-danone,
+    &-mindbot
 
         h2
+            color: black
+
             a
+                color: black
+                text-transform: uppercase
+                font-size: 30px
+
+            span
                 color: black
 
         p
@@ -187,6 +204,11 @@
             margin: 0 auto
             margin-bottom: 17.5px
 
+    &-dataseed,
+    &-resultsmark
+        .portfolio-logo-image img
+            max-width: unset
+
     &-testimony-tv-chevron
 
         div.portfolio-hr
@@ -198,7 +220,11 @@
         hr
             border-top: #fff 1px solid !important
 
-    &-testimony-resultsmark-chevron
+    &-testimony-mythx-chevron,
+    &-testimony-dataseed-chevron,
+    &-testimony-resultsmark-chevron,
+    &-testimony-tv-chevron,
+    &-testimony-data-chevron
         text-align: center
 
         .portfolio-testimony-text
@@ -215,8 +241,9 @@
         img
             width: 100px
 
-
-    &-testimony-groupseer-chevron
+    &-testimony-data-chevron,
+    &-testimony-groupseer-chevron,
+    &-testimony-mindbot-chevron
         text-align: center
 
         .portfolio-testimony-text
@@ -300,20 +327,24 @@
             padding-left: 60px
 
         @media screen and (min-width: 768px)
-            &-chevron
-                +chevron-portfolio(black, white)
-
-            &-groupseer-chevron
-                +chevron-portfolio(white, darken(#fff, 40%))
-
-            &-resultsmark-chevron
-                +chevron-portfolio(black, white)
-
-            &-data-chevron
-                +chevron-portfolio(#f2f2f2, darken(#fff, 40%))
-
+            &-chevron,
+            &-mythx-chevron,
+            &-dit-chevron,
+            &-eyewitness-chevron,
+            &-echonote-chevron,
+            &-resultsmark-chevron,
+            &-dataseed-chevron,
             &-tv-chevron
                 +chevron-portfolio(black, white)
+
+            &-newsverify-chevron,
+            &-data-chevron,
+            &-danone-chevron,
+            &-groupseer-chevron,
+            &-lastseen-chevron,
+            &-mindbot-chevron,
+            &-dit-chevron,
+                +chevron-portfolio(white, darken(#fff, 40%))
 
     &-hr
         +hr(25px, white)
@@ -385,6 +416,7 @@
             .client-hscic
                 position: relative
                 margin-top: 20px
+
 
         &-tv .portfolio-logo-image img
             display: inline-block
