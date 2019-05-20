@@ -5,7 +5,7 @@ published: true
 title: "Multi-Team Slack Bots Hosted with BeepBoop"
 ---
 
-<p style="text-align: center;"><strong>How To Deploy Your Bot As a Slack App</strong></p>
+<p><strong>How To Deploy Your Bot As a Slack App</strong></p>
 
 This article assumes that you already have a [Slack bot running locally as a
 custom
