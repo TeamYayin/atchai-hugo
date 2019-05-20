@@ -22,6 +22,8 @@ To find out about what we can do for you, [give us a call or send us an email](#
 > <cite>Bernhard Mueller -
 > Consensys</cite>
 
+<!-- -->
+
 > John runs an agile, knowledgeable and experienced team of developers with a strong focus on enterprise, data-driven technical solutions. I have employed them for a recent, very challenging project mining the group associativity of social media networks.
 >
 > I was highly impressed by the way John runs his team, the agile way in which they approach the work and even more pleased with their ideas and technical input. I would recommend John and his team at Atchai to anyone who needs a competent solution for any data-oriented enterprise project.
