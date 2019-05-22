@@ -7,13 +7,7 @@ title: "Multi-Team Slack Bots Hosted with BeepBoop"
 
 <p><strong>How To Deploy Your Bot As a Slack App</strong></p>
 
-This article assumes that you already have a [Slack bot running locally as a
-custom
-integration](/blog/2016-06-30-creating-a-simple-slack-bot), and
-an account set up with BeepBoop. If that’s not the case then just [follow this
-guide](/blog/2016-06-30-creating-a-simple-slack-bot) which is
-the perfect prerequisite to this article, and should get you up and running in
-the shortest possible time.
+**UPDATE:  The BeepBoop service referred to in this article is now defunct**
 
 If you want your bot to be used by multiple teams, handle slash commands, or to
 be submitted to the Slack app store then it’ll need to do the oAuth dance and
@@ -30,7 +24,7 @@ thing we need to do is update **index.js:**
 <script src="https://gist.github.com/johngriffin/643a49c98d0aeda67a663f3aa95a709a.js"></script>
 
 The only change here is for us to use the “beepboop-botkit” library to connect
-to Slack, if there is no “SLACK_TOKEN” environment variable. 
+to Slack, if there is no “SLACK_TOKEN” environment variable.
 
 ![Slack app switch](/images/blog-slack-multi-app-switch.png)
 
@@ -39,7 +33,7 @@ SLACK_TOKEN environment variable will not be set any more. Flicking this switch
 will also start a wizard-like UI that’ll guide us through the next steps, which
 are:
 
-* Register a new Slack App for your team 
+* Register a new Slack App for your team
 * Create a bot user for the Slack App
 * Copy the details from the “App Credentials” tab back to BeepBoop
 
@@ -58,7 +52,7 @@ Before you’ll be able to see the bot in your team you will need to launch the
 Slack App for your team. BeepBoop creates a page for your app with a button
 allowing you to do this. You can use this as a simple landing page for your bot,
 allowing anyone to add it to their team — it’s contents can be customised using
-[bot.yml](https://beepboophq.com/docs/article/bot-yml). To find this page go to
+bot.yml. To find this page go to
 the “Teams” tab of your projects, then click “Add Team”.
 
 ![Slack app launch page](/images/blog-slack-multi-launch-page.png)
@@ -75,7 +69,7 @@ allows you to run the multi-team bot locally, as if it were running on BeepBoop.
 ### What next?
 
 You’ll probably want to add some configuration settings, this can be arranged in
-[bot.yml](https://beepboophq.com/docs/article/bot-yml) and there are two levels
+bot.yml and there are two levels
 possible:
 
 * Global config settings are passed in on your BeepBoop project page
@@ -84,7 +78,7 @@ install your app.
 
 There is currently no datastore available with BeepBoop, so if you want some
 persistence you’ll need to provide your own. Apparently they will be adding a
-simple key-value store in future. 
+simple key-value store in future.
 
 It is possible to run your own webserver on BeepBoop — this is useful if you
 need to have a webhook for integrating with systems such as Twilio SMS.
