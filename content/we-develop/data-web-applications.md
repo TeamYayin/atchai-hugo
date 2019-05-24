@@ -37,3 +37,9 @@ Established in 2010 and based in London, Atchai is a digital <strong>consultancy
 
 <br>
 <br>
+<br>
+
+### <h3 class="case-study-header">See some of our recent projects</h3>
+<div class="icon-arrow-down">
+  <img src="/images/arrow-down.svg">
+</div>
