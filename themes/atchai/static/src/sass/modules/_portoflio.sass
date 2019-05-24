@@ -15,6 +15,12 @@
     img
         position: relative
         z-index: 3
+    
+    .logo-2
+        width: 40%
+        max-width: 90px
+        min-width: 85px
+        padding-bottom: 10px
 
     &-thin
         font-family: Raleway-Regular
@@ -24,32 +30,34 @@
 
     &-danone-chevron,
     &-mindbot-chevron,
-    &-lastseen-chevron,
     &-groupseer-chevron,
+    &-newsverify-chevron,
     &-data-chevron,
-    &-newsverify-chevron
+    &-lastseen-chevron
         +chevron(white)
 
-    &-clinical-chevron,
-    &-dataseed-chevron,
-    &-resultsmark-chevron,
-    &-dit-chevron,
     &-mythx-chevron,
     &-eyewitness-chevron,
-    &-echonote-chevron
+    &-dit-chevron,
+    &-dataseed-chevron,
+    &-resultsmark-chevron,
+    &-clinical-chevron
         +chevron(black)
 
     &-tv-chevron
         background-color: black
 
-    &-dataseed
+    &-mythx,
+    &-resultsmark,
+    &-clinical
+        .logo-2
+            max-width: 135px
+            min-width: 125px
 
-        h2
-            text-transform: none
-            font-size: 40px
-
-            a
-                color: white
+    &-dit
+        .logo-2
+            max-width: 100px
+            min-width: 90px
 
     &-tv
         position: relative
@@ -83,9 +91,9 @@
             height: 70px
             background-color: #f2f2f2
 
-        .portfolio-logo-image img
-            width: 100%
-            margin-top: 60px
+        .logo-2
+            max-width: 60px
+            min-width: 50px
 
         .portfolio-tech p
             padding-bottom: 0px
@@ -102,21 +110,6 @@
 
     &-clinical
         
-        .portfolio-logo-image
-            margin-top: 0
-            position: relative
-            text-align: center
-
-            img
-                max-width: 230px
-
-        #hscic-logo
-            max-width: 150px
-            margin-top: 20px
-
-        .client-hscic
-            position: absolute
-
         h2 a
             color: white
 
@@ -134,17 +127,6 @@
             .social
                 max-width: 400px
                 margin-top: 0px
-
-        .portfolio-logo
-            display: inline-block
-            position: relative
-            z-index: 3
-
-            img
-                min-width: 80px
-                float: right
-                width: 125px
-                margin-top: 20px
 
         .portfolio-tech p
             color: white
@@ -269,12 +251,6 @@
 
     &-logo
         padding-right: 40px
-
-        img
-            width: 40%
-            max-width: 280px
-            min-width: 220px
-            padding-bottom: 30px
 
         p
             margin-bottom: 25px
