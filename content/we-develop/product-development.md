@@ -34,3 +34,12 @@ Our tech stack is constantly evolving - We embrace new technology and we're alwa
 <br>
 ### About Atchai
 Established in 2010 and based in London, Atchai is a digital <strong>consultancy</strong> and <strong>development</strong> house based in <strong>London, UK</strong>. We've developed <strong>innovative</strong> digital products for both fast-moving <strong>start-ups</strong> and massive <strong>enterprise</strong> organisations such as Bank of England, NHS, and Turner Broadcasting.
+
+<br>
+<br>
+<br>
+
+### <h3 class="case-study-header">See some of our recent projects</h3>
+<div class="icon-arrow-down">
+  <img src="/images/arrow-down.svg">
+</div>
