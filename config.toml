@@ -9,7 +9,7 @@ pluralizelisttitles = false
 
 [params]
   prod_baseurl = "http://atchai.com"
-  metadescription = "Atchai develops sophisticated digital products using cutting edge technology with an agile, user-centred approach. Specialising in bots, blockchain, and data driven web applications."
+  metadescription = "Atchai develops sophisticated digital products using cutting edge technology with an agile, user-centred approach. Specialising in conversational AI, blockchain, and data driven web applications."
 
 
 [params.authors]

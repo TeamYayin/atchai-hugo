@@ -1,7 +1,7 @@
 ---
 title: "Loqativ Chatbot Platform / Engine"
 header_image: "/images/loqativ-logo-header.jpg"
-partial_includes: ["case-studies-loqativ.html", "testimonial-mindbot.html"]
+partial_includes: ["case-studies-chatbots.html", "testimonial-mindbot.html"]
 sitemap:
     priority: 0.8
 ---
