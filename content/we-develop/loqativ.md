@@ -77,7 +77,7 @@ You don't want to manage any more systems so we can seamlessly integrate with yo
 
 <br>
 ### Tried and Tested
-Used by everyone from UK Government to Fortune 500 FMCG and media brands, our bots have passed the most stringent security tests and we can ensure you are GDPR compliant.  Our bots are blazingly fast as Loqativ is build with Node.js and deployed on cloud infrastructure using Docker container management.
+Used by everyone from UK Government to Fortune 500 FMCG and media brands, our bots have passed the most stringent security tests and we can ensure you are GDPR compliant.  Our bots are blazingly fast as Loqativ is built with Node.js and deployed on cloud infrastructure using Docker container management.
 
 <br>
 <br>
