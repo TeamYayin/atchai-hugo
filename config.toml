@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-gb"
-title = "Smart Product Development Consultancy in London"
+title = "AI Product Development Consultancy in London"
 theme = "atchai"
 relativeurls = true
 canonifyurls = false
@@ -9,7 +9,7 @@ pluralizelisttitles = false
 
 [params]
   prod_baseurl = "http://atchai.com"
-  metadescription = "Atchai develops sophisticated digital products using cutting edge technology with an agile, user-centred approach. Specialising in conversational AI, blockchain, and data driven web applications."
+  metadescription = "Atchai develops intelligent digital products using cutting edge technology with an agile, user-centred approach. Specialising in conversational AI, blockchain, and data driven web applications."
 
 
 [params.authors]
