@@ -1,5 +1,5 @@
 ---
-title: "Chatbot Development & Conversational UI Company"
+title: "Conversational AI & Chatbot Development"
 H1: "Conversational AI"
 partial_includes: ["case-studies-chatbots.html", "testimonial-mindbot.html"]
 sitemap:
