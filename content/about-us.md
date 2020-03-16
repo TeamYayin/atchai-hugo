@@ -4,15 +4,24 @@ date = "2016-01-27"
 +++
 
 
-Established in 2010, Atchai is a digital consultancy and development house based in London, UK.  We work closely with customers to [develop innovative digital products](/we-develop/product-development), specialising in [data-driven applications](/we-develop/data-web-applications), [conversational UI / chatbots](/we-develop/conversational-ui-chatbots) and [blockchain applications](/we-develop/blockchain-ethereum-development).
+Established in 2010, Atchai is a consultancy and development house based in London, UK.  We work closely with customers to [develop intelligent digital products](/we-develop/product-development), specialising in [data-driven applications](/we-develop/data-web-applications), [conversational UI / chatbots](/we-develop/conversational-ui-chatbots) and [blockchain applications](/we-develop/blockchain-ethereum-development).
 
 Our work is driven by new technology, user centred design and [Agile methodologies](/about-us/how-we-work). What makes us different is the team we work with; all our people are experts in their field and have world-class credentials to back it up.  We are a small, specialised team and we offer a highly personal and collaborative service to our clients.
 
-We think creatively about technology and implement it strategically. We invest in new and interesting ideas and regularly release open-source code to the community. Our recent clients include the Bank of England, UEFA, NHS National Innovation Centre, Turner Broadcasting, Internews, and Mencap, along with a number of smaller organisations whom we love just as much.
+We think creatively about technology and implement it strategically. We invest in new and interesting ideas and regularly release open-source code to the community. Our recent clients include the Cabinet Office, Bank of England, UEFA, NHS Digital, Turner Broadcasting, Internews, and Mencap, along with a number of smaller organisations whom we love just as much.
 
 To find out about what we can do for you, [give us a call or send us an email](#contact).
 
 ## What our clients say
+
+> We engaged Atchai to develop Nutricia’s first AI offering.  We found Atchai’s experience and knowledge of this space invaluable.
+>
+> Atchai’s approach to the project was very professional and well structured. I look forward to working with them again.
+
+> <cite>Matt Scott -
+> Nutricia</cite>
+
+<!-- -->
 
 > Atchai helped us to design and build an innovative subscription payment system running on Ethereum.
 >
@@ -49,7 +58,7 @@ To find out about what we can do for you, [give us a call or send us an email](#
 >
 > This step-change innovation, which was profiled extensively at an international semantic web conference and a Guardian review, represents an important contribution to health informatics.
 >
-> Atchai’s ability to work in development sprints that result incompelling customer experiences is a clear signature. In fact, the entire Atchai experience is enjoyable, pragmatic, and pleasasantly surprising!
+> Atchai’s ability to work in development sprints that result in compelling customer experiences is a clear signature. In fact, the entire Atchai experience is enjoyable, pragmatic, and pleasantly surprising!
 >
 > <cite>Matthew Wilkinson -
 > NHS</cite>

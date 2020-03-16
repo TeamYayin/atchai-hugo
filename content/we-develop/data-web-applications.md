@@ -1,18 +1,34 @@
 ---
-title: "Data Driven Web Applications"
-h1: "Data Driven Applications"
+title: "Data Science and Applied AI"
+h1: "Applied AI & Data Science"
 partial_includes: ["case-studies-data.html", "testimonial-inition.html"]
 sitemap:
     priority: 0.8
 ---
 
 <br>
-### Smart and sophisticated
-Modern apps need to do more than just look beautiful. Great user experience has become the standard, so in order to differentiate you need to build innovative technology.  We develop web applications that use <strong>machine learning</strong> and <strong>natural language processing</strong>.  We work with you in an <a href="about-us/how-we-work/">Agile process</a>, providing full-stack product development.  
+### How we do Data Science
+In recent years there have been massive advances in <strong>machine learning</strong> and <strong>natural language processing</strong> - the main disciplines that we refer to when we say AI. We can help you unlock the value of these advances and understand how they can be applied to your business.
+
+Once we have developed hypotheses for how your data can be used, we take a scientific approach and define clear <strong>experiments</strong> that can be run in order to determine the value of a potential intervention.  
+
+We specialise in unlocking value held in <strong>text and unstructured data</strong>.  Most organisations have a treasure trove of documents, product or service reviews, emails, support enquiries, or other data that can be better exploited within the organisation.  
+
+There's no magic here!  Our <a href="about-us/how-we-work/">Agile</a> approach to applied AI means empowering employees and customers with smarter tools.
 
 <br>
-### Cutting Edge Technology 
-Our tech stack is constantly evolving - We embrace new technology and we’re always learning.  For big data pipelines and machine learning / NLP at scale we use <strong>Apache Spark with Python</strong> and Scala, typically deployed on AWS.  We build <strong>micro-services</strong> that communicate via task queues such as RabbitMQ.  Modern datastores provide a wide range of options, we work a lot with <strong>Elasticsearch</strong>, <strong>Postgres</strong> and <strong>MongoDB</strong>.  Our web applications are moving towards a full-stack <strong>javascript/Node.js</strong> approach.  
+<blockquote>
+As soon as it works, no one calls it AI anymore - John McCarthy  
+</blockquote>
+
+<br>
+### Cutting Edge Technology
+Our tech stack is constantly evolving - we embrace new technology and we’re always learning.  
+
+For machine learning and NLP we use mature open source tools including <strong>Spacy</strong>, <strong>NLTK</strong>, <strong>Tensorflow</strong>, <strong>Keras</strong>, <strong>Pytorch</strong>.  These allow us to train using your data in secure cloud environments with complete privacy. <strong>Apache Spark with Python</strong> may be used to scale models horizontally, typically deployed on AWS or Microsoft Azure.
+
+We build <strong>micro-services</strong> that expose RESTful APIs for easy integration.  Modern datastores provide a wide range of options, we work a lot with <strong>Elasticsearch</strong>, <strong>Postgres</strong> and <strong>MongoDB</strong>.  Our web applications typically use a full-stack <strong>javascript/Node.js</strong> approach.  
+
 
 <div class="row row-mod skills-images">
     <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
@@ -33,7 +49,7 @@ Our tech stack is constantly evolving - We embrace new technology and we’re al
 
 <br>
 ### About Atchai
-Established in 2010 and based in London, Atchai is a digital <strong>consultancy</strong> and <strong>development</strong> house based in <strong>London, UK</strong>. We've developed <strong>innovative</strong> digital products for both fast-moving <strong>start-ups</strong> and massive <strong>enterprise</strong> organisations such as Bank of England, NHS, and Turner Broadcasting.
+Established in 2010 and based in London, Atchai is a <strong>consultancy</strong> and <strong>development</strong> house based in <strong>London, UK</strong>. We've developed <strong>innovative</strong> digital products for both fast-moving <strong>start-ups</strong> and massive <strong>enterprise</strong> organisations such as Bank of England, NHS, and Turner Broadcasting.
 
 <br>
 <br>
