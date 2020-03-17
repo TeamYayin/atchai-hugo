@@ -14,6 +14,7 @@ To find out about what we can do for you, [give us a call or send us an email](#
 
 ## What our clients say
 
+
 > We engaged Atchai to develop Nutricia’s first AI offering.  We found Atchai’s experience and knowledge of this space invaluable.
 >
 > Atchai’s approach to the project was very professional and well structured. I look forward to working with them again.
@@ -28,6 +29,7 @@ To find out about what we can do for you, [give us a call or send us an email](#
 > Working with cutting edge technology in an emerging sector is a challenge.  The team were fantastically agile, professional and reliable throughout the project, we communicated regularly and managed to develop a novel concept into working software within a short timeframe.
 >
 > I highly recommend working with Atchai for any project that requires a creative approach backed up by strong engineering practices.
+>
 > <cite>Bernhard Mueller -
 > Consensys</cite>
 
