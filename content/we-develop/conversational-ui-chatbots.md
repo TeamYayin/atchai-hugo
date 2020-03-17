@@ -17,7 +17,7 @@ Established in 2010 and based in London, Atchai is a <strong>consultancy</strong
 <br><br>
 <a href="/we-develop/loqativ"><img id="chatbot-loqativ-logo" src="/images/complete-flow-logo-hori.svg" style="min-width:300px;max-width:50%"></a>
 <br><br>
-Loqativ is a powerful, flexible chatbot platform with an API for easy integration.  We built it to offer our customers full ownership of their data and complete flexibility in customising their bot's functionality.
+CompleteFlow is a powerful, flexible conversational AI platform with an API for easy integration.  We built it to offer our customers full ownership of their data and complete flexibility in customising their bot's functionality.
 
 <br>
 <div class="header-graphic">
