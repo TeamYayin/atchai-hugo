@@ -7,8 +7,8 @@ sitemap:
 ---
 
 <br>
-### Chatbot development
-We develop chatbots for web, mobile and all the major messaging platforms including <strong>Facebook Messenger</strong>, <strong>Slack</strong> and voice interfaces such as <strong>Amazon Alexa</strong>.  We provide a full chatbot co-creation service, working with you to develop a concept, design and test the product in an iterative process with real users.  Our machine learning and NLP experience helps us inject magic into the experience!
+### Full service development
+We develop chatbots and conversational AI experiences for web, mobile and all the major messaging platforms including <strong>Facebook Messenger</strong> and <strong>Slack</strong>.  We provide a full co-creation service, working with you to develop a concept, design and test the product in an iterative process with real users.  Our machine learning and NLP experience helps us inject magic into the experience!
 
 <br>
 ### About Atchai
@@ -21,9 +21,14 @@ CompleteFlow is a powerful, flexible conversational AI platform with an API for 
 
 <br>
 <div class="header-graphic">
+  <img src="/images/api-CF.jpg" >
+
+<!--
     <video class="video-player" playsinline muted loop width="100%" id="video1" style="display:block">
 		  <source src="/video/UI-drag.mp4">
 		</video>
+
+-->
 </div>
 <br>
 <br>
