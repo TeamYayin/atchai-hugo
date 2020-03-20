@@ -12,7 +12,7 @@ Bots are a great solution for bridging gaps in the customer journey and offering
 
 ![](/img/case-study-danone.png "Cows milk allergy facebook messenger bot screenshot") 
 
-The CMA bot is built on our propriery [Loqativ chatbot engine](/we-develop/loqativ/).  All our customers benefit from Loqativ, which provides them with a powerful and robust engine that we customise with rules for your particular bot. 
+The CMA bot is built on our propriery [CompleteFlow platform](https://completeflow.ai).  All our customers benefit from CompleteFlow, which provides them with a powerful and robust engine that we customise with rules and content for your particular use case. 
 
 
 <p style="text-align: center;">

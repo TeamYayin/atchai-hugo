@@ -15,13 +15,13 @@ We develop chatbots and conversational AI experiences for web, mobile and all th
 Established in 2010 and based in London, Atchai is a <strong>consultancy</strong> and <strong>development</strong> house based in <strong>London, UK</strong>. We create <strong>intelligent</strong> digital products for both fast-moving <strong>start-ups</strong> and massive <strong>enterprise</strong> organisations such as Bank of England, NHS, and Turner Broadcasting.
 
 <br><br>
-<a href="/we-develop/loqativ"><img id="chatbot-loqativ-logo" src="/images/complete-flow-logo-hori.svg" style="min-width:300px;max-width:50%"></a>
+<a href="https://completeflow.ai"><img id="chatbot-loqativ-logo" src="/images/complete-flow-logo-hori.svg" style="min-width:300px;max-width:50%"></a>
 <br><br>
 CompleteFlow is a powerful, flexible conversational AI platform with an API for easy integration.  We built it to offer our customers full ownership of their data and complete flexibility in customising their bot's functionality.
 
 <br>
 <div class="header-graphic">
-  <img src="/images/api-CF.jpg" >
+  <a href="https://completeflow.ai"><img src="/images/api-CF.jpg" ></a>
 
 <!--
     <video class="video-player" playsinline muted loop width="100%" id="video1" style="display:block">
