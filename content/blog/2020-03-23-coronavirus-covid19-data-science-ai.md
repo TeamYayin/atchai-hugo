@@ -59,12 +59,12 @@ If you have data science or visualisation skills, or if you have a medical backg
 Some excellent work is being done all over the place at the moment and so I’ll link to a few other data sources that might be interesting.
 
 *   [https://covidtracking.com/](https://covidtracking.com/) — The COVID Tracking Project collects information from 50 US states, the District of Columbia, and 5 other US territories to provide the most comprehensive testing data we can collect for the novel coronavirus, SARS-CoV-2. We attempt to include *positive and negative results*, *pending tests*, and *total people tested for* each state or district currently reporting that data.
-*   [UK COVID-19 cases by day broken down by local authority](https://www.arcgis.com/apps/opsdashboard/index.html#/f94c3c90da5b4e9f9a0b19484dd4bb14)
 *   [Health Data Research UK Github — contains links to various UK-specific datasets](https://github.com/hdruk/covid-19)
 *   [Our World in Data Statistics](https://ourworldindata.org/coronavirus) — these are excellent and contain a foreword regarding why these numbers are more reliable than the WHO data.
 
-Day level cases data by geography:
+**Day level cases data by geography:**
 
+*   [UK COVID-19 cases by day broken down by local authority](https://www.arcgis.com/apps/opsdashboard/index.html#/f94c3c90da5b4e9f9a0b19484dd4bb14)
 *   India — [https://www.kaggle.com/sudalairajkumar/covid19-in-india](https://www.kaggle.com/sudalairajkumar/covid19-in-india)
 *   South Korea — [https://www.kaggle.com/kimjihoo/coronavirusdataset](https://www.kaggle.com/kimjihoo/coronavirusdataset)
 *   Italy — [https://www.kaggle.com/sudalairajkumar/covid19-in-italy](https://www.kaggle.com/sudalairajkumar/covid19-in-italy)
@@ -72,3 +72,7 @@ Day level cases data by geography:
 *   USA — [https://www.kaggle.com/sudalairajkumar/covid19-in-usa](https://www.kaggle.com/sudalairajkumar/covid19-in-usa)
 *   Switzerland — [https://www.kaggle.com/daenuprobst/covid19-cases-switzerland](https://www.kaggle.com/daenuprobst/covid19-cases-switzerland)
 *   Indonesia — [https://www.kaggle.com/ardisragen/indonesia-coronavirus-cases](https://www.kaggle.com/ardisragen/indonesia-coronavirus-cases)
+
+<hr>
+
+Stay tuned for a follow up post where I'll set out what I see as the roadmap based on what we currently know, and point to the most useful work that's been done so far.
