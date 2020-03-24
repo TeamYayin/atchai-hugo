@@ -3,7 +3,7 @@ author: JohnGriffin
 date: "2020-03-23"
 published: true
 title: "What can data scientists contribute to the COVID-19 effort?"
-header_image: ""
+header_image: "/images/Covid-19-Header-Image-2-scaled.jpg"
 ---
 
 
